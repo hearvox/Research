@@ -68,7 +68,7 @@
 </tr>
 <tr>
 <th scope="row"><a href="https://www.propublica.org/article/unsafe-at-many-speeds">ProPublica</a><br />
-Few static imagaes, mostly interactives</th>
+<p>Few static imagaes, mostly interactives</p></th>
 <td></td>
 <td></td>
 <td></td>
