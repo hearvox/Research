@@ -1,3 +1,8 @@
+
+| Org          | title | source | name | link | |
+| :---         | :---: | :---:  | :---: | :---: | |
+| <a href="http://www.brookings.edu/research/reports/2016/06/16-informal-child-care-is-more-likely-to-harm-children-loeb">Brookings Institution</a>   | √ | √ | √ | √ | <a href="http://www.brookings.edu/~/media/Research/Files/Reports/2016/06/16-informal-child-care-is-more-likely-to-harm-children-loeb/figure-1.png"><img src="http://www.brookings.edu/~/media/Research/Files/Reports/2016/06/16-informal-child-care-is-more-likely-to-harm-children-loeb/figure-1.png" width="250" /></a> |
+
 <table class="files">
 <thead>
 <tr>
