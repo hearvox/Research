@@ -12,7 +12,8 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="http://www.brookings.edu/research/reports/2016/06/16-informal-child-care-is-more-likely-to-harm-children-loeb">Brookings Institution</a></td>
+<td><a href="http://www.brookings.edu/research/reports/2016/06/16-informal-child-care-is-more-likely-to-harm-children-loeb">Brookings Institution</a><br />
+Image links to model window (larger view of same image larger -- not a gallery).</td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
@@ -36,12 +37,13 @@
 <td><a href="https://i.guim.co.uk/img/media/913cb4b590085d0b0fe940f49f0b09e1ae7a10b9/0_0_882_593/master/882.jpg?w=620&q=20&auto=format&usm=12&fit=max&dpr=2&s=aa781b5445f87617e4a9befd5b26477a"><img src="https://i.guim.co.uk/img/media/913cb4b590085d0b0fe940f49f0b09e1ae7a10b9/0_0_882_593/master/882.jpg?w=620&q=20&auto=format&usm=12&fit=max&dpr=2&s=aa781b5445f87617e4a9befd5b26477a" width="350" /></a></td>
 </tr>
 <tr>
-<td><a href="http://www.heritage.org/research/reports/2016/07/eliminate-favorable-treatment-of-biofuels">Heritage Foundation</a></td>
+<td><a href="http://www.heritage.org/research/reports/2016/07/eliminate-favorable-treatment-of-biofuels">Heritage Foundation</a><br />
+Image links to itself.</td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
-<td><a href="http://www.heritage.org/~/media/infographics/2016/07/bg3145/ud-ag-2016-biofuels-chart-1-ethanol-as-additive.ashx"><img src="http://www.heritage.org/~/media/infographics/2016/07/bg3145/ud-ag-2016-biofuels-chart-1-ethanol-as-additive.ashx" width="350" /></a></td>
+<td><a href="http://www.heritage.org/~/media/infographics/2016/07/bg3145/ud-ag-2016-biofuels-chart-5-corn-and-ethanol-prices-600.ashx"><img src="http://www.heritage.org/~/media/infographics/2016/07/bg3145/ud-ag-2016-biofuels-chart-5-corn-and-ethanol-prices-600.ashx?h=385&w=600" width="350" /></a></td>
 </tr>
 <tr>
 <th scope="row"><a href="">NY Times</a></th>
@@ -68,13 +70,13 @@
 <td><a href=""><img src="" width="250" /></a></td>
 </tr>
 <tr>
-<th scope="row"><a href="https://www.propublica.org/article/unsafe-at-many-speeds">ProPublica</a><br />
-<p>Few static imagaes, mostly interactives</p></th>
+<td><a href="https://www.propublica.org/article/unsafe-at-many-speeds">ProPublica</a><br />
+<p>Use mostly interactives, very few static images.</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td><a href="https://www.propublica.org/images/ngen/gypsy_image_630/20160525-lanewidthadapted-630.jpg"><img src="https://www.propublica.org/images/ngen/gypsy_image_630/20160525-lanewidthadapted-630.jpg" width="250" /></a></td>
+<td><a href="https://www.propublica.org/images/ngen/gypsy_image_630/20160525-lanewidthadapted-630.jpg"><img src="https://www.propublica.org/images/ngen/gypsy_image_630/20160525-lanewidthadapted-630.jpg" width="350" /></a></td>
 </tr>
 <tr>
 <th scope="row"><a href=""></a></th>
