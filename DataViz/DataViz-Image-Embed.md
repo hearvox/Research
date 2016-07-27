@@ -1,4 +1,4 @@
-<table>
+<table class="files">
 <thead>
 <tr>
 <td></td>
@@ -19,7 +19,7 @@
 <td><a href="http://www.brookings.edu/~/media/Research/Files/Reports/2016/06/16-informal-child-care-is-more-likely-to-harm-children-loeb/figure-1.png"><img src="http://www.brookings.edu/~/media/Research/Files/Reports/2016/06/16-informal-child-care-is-more-likely-to-harm-children-loeb/figure-1.png" width="250" /></a></td>
 </tr>
 <tr>
-<th scope="row"><a href="">FiveThirtyEight</a></th>
+<th scope="row" class="age"><a href="">FiveThirtyEight</a></th>
 <td>√</td>
 <td>√</td>
 <td>√</td>
