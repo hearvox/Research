@@ -105,6 +105,6 @@ Most New York Times are either interactives, <a href="http://www.nytimes.com/201
 Neither CSS-ed nor SVG-ed charts are easy to embed at other sites. 
 
 <h2>The Guardian: Social sharing images</h2>
-
+<img src="https://raw.githubusercontent.com/hearvox/Research/master/DataViz/Guardian-chart-social-share.png" />
 
 
