@@ -17,8 +17,8 @@ How do other research and news sites present static-image charts (i.e., not inte
 </thead>
 <tbody>
 <tr>
-<td><a href="http://www.brookings.edu/research/reports/2016/06/16-informal-child-care-is-more-likely-to-harm-children-loeb">Brookings Institution</a><br />
-Chart links to full size version in modal window (not a gallery of multiple images in article).</td>
+<td><p><a href="http://www.brookings.edu/research/reports/2016/06/16-informal-child-care-is-more-likely-to-harm-children-loeb">Brookings Institution</a></p>
+<p>Chart links to full size version in modal window (not a gallery of multiple images in article).</p></td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
