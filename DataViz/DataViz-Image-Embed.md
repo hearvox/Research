@@ -94,7 +94,7 @@ How do other research and news sites present static-image charts (i.e., not inte
 <td>√</td>
 <td>√</td>
 <td></td>
-<td><a href="https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/inlineimage/2016-07-20/favsupport2.PNG"><img src="https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/inlineimage/2016-07-20/favsupport2.PNG" width="250" /></a></td>
+<td><a href="https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/inlineimage/2016-07-20/favsupport2.PNG"><img src="https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/inlineimage/2016-07-20/favsupport2.PNG" width="350" /></a></td>
 </tr>
 </tbody>
 </table>
