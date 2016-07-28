@@ -23,7 +23,7 @@ First we'll look how other research and news sites present charts (static images
 <tbody>
 <tr>
 <td><a href="http://www.brookings.edu/research/reports/2016/06/16-informal-child-care-is-more-likely-to-harm-children-loeb">Brookings Institution</a><br />
-Image links to full size version in modal window (not a gallery of multiple images in article).</td>
+Chart links to full size version in modal window (not a gallery of multiple images in article).</td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
@@ -49,7 +49,7 @@ Site name and logo in image.</td>
 </tr>
 <tr>
 <td><a href="http://www.heritage.org/research/reports/2016/07/eliminate-favorable-treatment-of-biofuels">Heritage Foundation</a><br />
-Image links to itself.</td>
+Chart image links to itself.</td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
@@ -57,20 +57,13 @@ Image links to itself.</td>
 <td><a href="http://www.heritage.org/~/media/infographics/2016/07/bg3145/ud-ag-2016-biofuels-chart-5-corn-and-ethanol-prices-600.ashx"><img src="http://www.heritage.org/~/media/infographics/2016/07/bg3145/ud-ag-2016-biofuels-chart-5-corn-and-ethanol-prices-600.ashx?h=385&w=600" width="350" /></a></td>
 </tr>
 <tr>
-<th scope="row"><a href="">Pew Research Center</a></th>
+<td><a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/">Pew Research Center</a><br />
+Chart links <a href="http://www.pewresearch.org/files/2016/02/FT_16.02.23_EnviroRegulation_cost.png">to its own page</a>, part of a gallery of all charts in the report.</td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
-<td><a href=""><img src="" width="250" /></a></td>
-</tr>
-<tr>
-<th scope="row"><a href="">YouGov</a></th>
-<td>√</td>
-<td>√</td>
-<td>√</td>
-<td>√</td>
-<td><a href=""><img src="" width="250" /></a></td>
+<td><a href=""><img src="" width="350" /></a></td>
 </tr>
 <tr>
 <td><a href="https://www.propublica.org/article/unsafe-at-many-speeds">ProPublica</a><br />
@@ -82,24 +75,16 @@ Image links to itself.</td>
 <td><a href="https://www.propublica.org/images/ngen/gypsy_image_630/20160525-lanewidthadapted-630.jpg"><img src="https://www.propublica.org/images/ngen/gypsy_image_630/20160525-lanewidthadapted-630.jpg" width="350" /></a></td>
 </tr>
 <tr>
-<th scope="row"><a href=""></a></th>
+<td><a href="http://www.vox.com/2016/7/20/12148750/republican-party-trump-lincoln">Vox</a></td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
-<td>√</td>
-<td><a href=""><img src="" width="250" /></a></td>
-</tr>
-<tr>
-<th scope="row"><a href="">Vox</a></th>
-<td>√</td>
-<td>√</td>
-<td>√</td>
-<td>√</td>
-<td><a href=""><img src="" width="350" /></a></td>
+<td></td>
+<td><a href="https://cdn2.vox-cdn.com/thumbor/nNFCDB1Qq7Q12oj6qIM_9JOaZnA=/800x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/6818583/14th_amendment.0.png"><img src="https://cdn2.vox-cdn.com/thumbor/nNFCDB1Qq7Q12oj6qIM_9JOaZnA=/800x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/6818583/14th_amendment.0.png" width="350" /></a></td>
 </tr>
 <tr>
 <td><a href="https://www.washingtonpost.com/news/fancy-stats/wp/2016/07/26/os-dylan-bundy-has-the-pitches-he-needs-to-be-an-effective-starter/">Washington Post</a><br />
-WaPo name not in image but name of site section is ("Fancy Stats"). Image links to full size version in modal window (not a gallery).</td>
+WaPo name not in image but name of site section is ("Fancy Stats"). Chart links to full size version in modal window (not a gallery).</td>
 <td>√</td>
 <td>√</td>
 <td></td>
@@ -107,8 +92,8 @@ WaPo name not in image but name of site section is ("Fancy Stats"). Image links 
 <td><a href="https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/fancy-stats/wp-content/uploads/sites/28/2016/07/Changeup-Usage-Chart.png&w=1484"><img src="https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/fancy-stats/wp-content/uploads/sites/28/2016/07/Changeup-Usage-Chart.png&w=1484" width="350" /></a></td>
 </tr>
 <tr>
-<th scope="row"><a href="https://today.yougov.com/news/2016/07/20/dangers-too-much-negative/">YouGov</a><br />
-Name and URL of site in image.</th>
+<td><a href="https://today.yougov.com/news/2016/07/20/dangers-too-much-negative/">YouGov</a><br />
+Name and URL of site in image.</td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
