@@ -1,5 +1,7 @@
 <h1>Data Chart Images: Embedability</h1>
-We're looking for ways <a href="http://headwaterseconomics.org/">Headwaters Economics</a> can make our data charts easier for other sites to use. Here's how other research and news sites present static-image charts (i.e., not interactives). What do they include: the chart title, the data source(s), their site name? Also, is the image a link?
+We're looking for ways <a href="http://headwaterseconomics.org/">Headwaters Economics</a> can make our data charts easier for other sites to use. 
+
+How do other research and news sites present static-image charts (i.e., not interactives)? Do they include: the chart title, the data source(s), their site name? Is the chart a link?
 
 <em>Click org-name to see article and image for full size chart:</em>
 <table class="files">
@@ -33,7 +35,8 @@ Site name and logo in image.</td>
 <td><a href="http://i2.wp.com/espnfivethirtyeight.files.wordpress.com/2016/07/casselman-julyjobs-1.png"><img src="http://i2.wp.com/espnfivethirtyeight.files.wordpress.com/2016/07/casselman-julyjobs-1.png" width="350" /></a></td>
 </tr>
 <tr>
-<td><a href="https://www.theguardian.com/sustainable-business/2016/jul/02/america-solar-power-workforce-growing-market-solarcity-suniva">The Guardian</a></td>
+<td><a href="https://www.theguardian.com/sustainable-business/2016/jul/02/america-solar-power-workforce-growing-market-solarcity-suniva">The Guardian</a><br />
+Chart links to a <a href="https://www.theguardian.com/sustainable-business/2016/jul/02/america-solar-power-workforce-growing-market-solarcity-suniva#img-1">modal gallery of all charts <em>and</a> photos</a> in the article.</td>
 <td>√</td>
 <td></td>
 <td></td>
