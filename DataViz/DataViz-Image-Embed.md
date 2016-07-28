@@ -1,14 +1,7 @@
-<h1>Chart Images</h1>
-How can <a href="http://headwaterseconomics.org/">Headwaters Economics</a> make our HE data charts easier for other sites to use? Our goals are to encourage:
-<ul>
-<li>Embedding HE images in external articles.</li>
-<li>Citing HE in images used externally.</li>
-<li>Linking back from the external images to the HE report.</li>
-</ul>
+<h1>Data Chart Images: Embedability</h1>
+We're looking for ways <a href="http://headwaterseconomics.org/">Headwaters Economics</a> can make our data charts easier for other sites to use. Here's how other research and news sites present static-image charts (i.e., not interactives). What do they include: the chart title, the data source(s), their site name? Also, is the image a link?
 
-First we'll look how other research and news sites present charts (static images, i.e., not interactives). What do they include in the image: the chart title, the data source(s), their site's name/logo? Also, is the image in an HTML link?
-
-<em>Click org name to see article and image for full size version:</em>
+<em>Click org-name to see article and image for full size chart:</em>
 <table class="files">
 <thead>
 <tr>
