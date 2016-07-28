@@ -12,7 +12,7 @@ How do other research and news sites present static-image charts (i.e., not inte
 <th scope="col">src</th>
 <th scope="col">name</th>
 <th scope="col">link</th>
-<td></td>
+<td width="370"></td>
 </tr>
 </thead>
 <tbody>
