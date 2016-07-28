@@ -102,7 +102,7 @@ Herre's examples of how other research and news sites present static-image chart
 <h2>NY Times: SVG and CSS</h2>
 The New York Times has few or now static images. All its charts seems to be either interactives, <a href="http://www.nytimes.com/2016/07/23/upshot/were-about-to-enter-a-period-of-polling-volatility.html#embedded-polling-averages">drawn using SVG</a>, or <a href="http://www.nytimes.com/2016/03/31/science/global-warming-antarctica-ice-sheet-sea-level-rise.html#g-antarctica-600">text styed with CSS</a>.
 
-Neither CSS-ed nor SVG-ed charts are easy to embed at other sites. <a href="https://www.propublica.org/article/study-urges-cdc-to-revise-count-of-deaths-from-medical-error">">ProPublica also uses CSS</a> for most of its charts.
+Neither CSS-ed nor SVG-ed charts are easy to embed at other sites. <a href="https://www.propublica.org/article/study-urges-cdc-to-revise-count-of-deaths-from-medical-error">ProPublica also uses CSS</a> for most of its charts.
 
 <h2>The Guardian: Social sharing images</h2>
 
