@@ -1,4 +1,4 @@
-<h1>Data Charts: Embedability</h1>
+<h1>Sharing Charts</h1>
 We're looking for ways <a href="http://headwaterseconomics.org/">Headwaters Economics</a> can make our data charts easier for other sites to use. 
 
 Herre's examples of how other research and news sites present static-image charts (i.e., not interactives). Do they include: the chart title, data sources, the site's name? Is the chart a link (if so, what does it link to)?
