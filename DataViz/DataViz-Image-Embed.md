@@ -58,12 +58,12 @@ Chart image links to itself.</td>
 </tr>
 <tr>
 <td><a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/">Pew Research Center</a><br />
-Chart links <a href="http://www.pewresearch.org/files/2016/02/FT_16.02.23_EnviroRegulation_cost.png">to its own page</a>, part of a gallery of all charts in the report.</td>
+Chart links <a href="http://www.pewresearch.org/files/2016/02/FT_16.02.23_EnviroRegulation_cost.png">to its own page</a>, part of a gallery of pages of all charts in the report.</td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
-<td><a href=""><img src="" width="350" /></a></td>
+<td><a href="http://www.pewresearch.org/files/2016/02/FT_16.02.23_EnviroRegulation_cost.png"><img src="http://www.pewresearch.org/files/2016/02/FT_16.02.23_EnviroRegulation_cost.png" width="350" /></a></td>
 </tr>
 <tr>
 <td><a href="https://www.propublica.org/article/unsafe-at-many-speeds">ProPublica</a><br />
