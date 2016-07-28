@@ -3,7 +3,7 @@ We're looking for ways <a href="http://headwaterseconomics.org/">Headwaters Econ
 
 Herre's examples of how other research and news sites present static-image charts (i.e., not interactives). Do they include: the chart title, data sources, the site's name? Is the chart a link (if so, what does it link to)?
 
-<em>Click org-name to see article and image for full size chart:</em>
+<em>Click site-name to see article and image for full size chart:</em>
 <table class="files">
 <thead>
 <tr>
