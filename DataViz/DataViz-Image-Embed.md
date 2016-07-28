@@ -8,7 +8,7 @@ How can <a href="http://headwaterseconomics.org/">Headwaters Economics</a> make 
 
 First we'll look how other research and news sites present charts (static images, i.e., not interactives). What do they include in the image: the chart title, the data source(s), their site's name/logo? Also, is the image in an HTML link?
 
-<em>The org name links to the article; the image links its full size:</a>
+<em>Click org name to see article and image for full size version:</em>
 <table class="files">
 <thead>
 <tr>
@@ -23,7 +23,7 @@ First we'll look how other research and news sites present charts (static images
 <tbody>
 <tr>
 <td><a href="http://www.brookings.edu/research/reports/2016/06/16-informal-child-care-is-more-likely-to-harm-children-loeb">Brookings Institution</a><br />
-Image links to model window (larger view of same image larger -- not a gallery).</td>
+Image links to full size version in modal window (not a gallery of multiple images in article).</td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
@@ -55,14 +55,6 @@ Image links to itself.</td>
 <td>√</td>
 <td>√</td>
 <td><a href="http://www.heritage.org/~/media/infographics/2016/07/bg3145/ud-ag-2016-biofuels-chart-5-corn-and-ethanol-prices-600.ashx"><img src="http://www.heritage.org/~/media/infographics/2016/07/bg3145/ud-ag-2016-biofuels-chart-5-corn-and-ethanol-prices-600.ashx?h=385&w=600" width="350" /></a></td>
-</tr>
-<tr>
-<th scope="row"><a href="">NY Times</a></th>
-<td>√</td>
-<td>√</td>
-<td>√</td>
-<td></td>
-<td><a href=""><img src="" width="300" /></a></td>
 </tr>
 <tr>
 <th scope="row"><a href="">Pew Research Center</a></th>
@@ -103,15 +95,25 @@ Image links to itself.</td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
-<td><a href=""><img src="" width="250" /></a></td>
+<td><a href=""><img src="" width="350" /></a></td>
 </tr>
 <tr>
-<th scope="row"><a href="">YouGov</a></th>
+<td><a href="https://www.washingtonpost.com/news/fancy-stats/wp/2016/07/26/os-dylan-bundy-has-the-pitches-he-needs-to-be-an-effective-starter/">Washington Post</a><br />
+WaPo name not in image but name of site section is ("Fancy Stats"). Image links to full size version in modal window (not a gallery).</td>
+<td>√</td>
+<td>√</td>
+<td></td>
+<td>√</td>
+<td><a href="https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/fancy-stats/wp-content/uploads/sites/28/2016/07/Changeup-Usage-Chart.png&w=1484"><img src="https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/fancy-stats/wp-content/uploads/sites/28/2016/07/Changeup-Usage-Chart.png&w=1484" width="350" /></a></td>
+</tr>
+<tr>
+<th scope="row"><a href="https://today.yougov.com/news/2016/07/20/dangers-too-much-negative/">YouGov</a><br />
+Name and URL of site in image.</th>
 <td>√</td>
 <td>√</td>
 <td>√</td>
-<td>√</td>
-<td><a href=""><img src="" width="250" /></a></td>
+<td></td>
+<td><a href="https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/inlineimage/2016-07-20/favsupport2.PNG"><img src="https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/inlineimage/2016-07-20/favsupport2.PNG" width="250" /></a></td>
 </tr>
 </tbody>
 </table>
