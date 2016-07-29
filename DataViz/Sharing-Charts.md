@@ -107,7 +107,7 @@ For instance, <a href="https://www.facebook.com/dialog/share?app_id=180444840287
 The image at right shows how their charts' social icons display. FB's <a href="https://developers.facebook.com/docs/sharing/reference/feed-dialog">Feed Dialog - Sharing</a> dev doc has more info on the coding.
 
 <h2>HTML embed code</h2>
-<a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/ft_16-02-xx_environmentalregulation_2/"><img width="336" align="right" alt="Screenshot of Pew chart page" src="https://raw.githubusercontent.com/hearvox/Research/master/DataViz/Pew-chart-page.png" /></a>Pew takes sharing seriously. Each chart links <a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/ft_16-02-xx_environmentalregulation_2/">to its own page</a>.
+<a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/ft_16-02-xx_environmentalregulation_2/"><img width="330" align="right" alt="Screenshot of Pew chart page" src="https://raw.githubusercontent.com/hearvox/Research/master/DataViz/Pew-chart-page.png" /></a>Pew takes sharing seriously. Each chart links <a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/ft_16-02-xx_environmentalregulation_2/">to its own page</a>.
 
 The page has HTML image code that, for instance, a news site can copy-&amp;-paste it into an article. The HTML includes a link back to the Pew report.
 
