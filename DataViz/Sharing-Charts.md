@@ -82,7 +82,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 <tr>
 <td><p><a href="https://www.propublica.org/article/unsafe-at-many-speeds">ProPublica</a></p>
 <p>Few ProPublica charts are static images; most are interactives or designed with CSS.</p>
-<p>Same with the NY Times, which also often makes charts as SVGs.<sup><a  href="#svg-and-css-charts">[3]</a></sup></p></td>
+<p>Same with the NY Times, which also makes SVG charts.<sup><a  href="#svg-and-css-charts">[3]</a></sup></p></td>
 <td></td>
 <td></td>
 <td></td>
