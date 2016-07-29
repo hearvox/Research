@@ -6,18 +6,18 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 <table class="files">
 <thead>
 <tr>
-<td><em>[click to article:]</em></small></td>
+<td><em>[click for article:]</em></small></td>
 <th scope="col">title</th>
 <th scope="col">src</th>
 <th scope="col">name</th>
 <th scope="col">link</th>
-<td width="370" align="right"><em>[click to image:]</em></td>
+<td width="370" align="right"><em>[click for image:]</em></td>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><p><a href="http://www.brookings.edu/research/reports/2016/06/16-informal-child-care-is-more-likely-to-harm-children-loeb">Brookings Institution</a>
-<p>Chart links to full size version in modal window (not a gallery of multiple images in article).</p></td>
+<p>Chart links to full size version in modal window (just the one chart: <em>not</em> a gallery of multiple charts from a report, e.g., as The Guardian does ).</p></td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
