@@ -7,12 +7,12 @@ So we're checking how other research/news orgs present their data, in static-ima
 <table class="files">
 <thead>
 <tr>
-<td></td>
+<td><small><em>[Click for article]</em></small></td>
 <th scope="col">title</th>
 <th scope="col">src</th>
 <th scope="col">name</th>
 <th scope="col">link</th>
-<td width="370"></td>
+<td width="370"><td><small><em>[Click for image]</em></small></td></td>
 </tr>
 </thead>
 <tbody>
