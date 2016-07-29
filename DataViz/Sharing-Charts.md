@@ -61,6 +61,18 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 <td><a href="http://www.pewresearch.org/files/2016/02/FT_16.02.XX_EnvironmentalRegulation_2.png"><img src="http://www.pewresearch.org/files/2016/02/FT_16.02.XX_EnvironmentalRegulation_2.png" width="350" alt="Pew Research Center chart" /></a></td>
 </tr>
 <tr>
+<td><p><a href="http://www.perc.org/articles/clearing-smoke-wildfire-policy-economic-perspective">PERC</a></p></td>
+<td>√</td>
+<td>√</td>
+<td></td>
+<td></td>
+<td><a href="http://www.perc.org/sites/default/files/PS56-Figure4.png"><img src="http://www.perc.org/sites/default/files/PS56-Figure4.png" width="350" alt="PERC chart" /></a></td>
+</tr>
+
+
+
+
+<tr>
 <td><p><a href="https://www.propublica.org/article/unsafe-at-many-speeds">ProPublica</a></p>
 <p>Few ProPublica charts are static images; most are interactives or designed with CSS.</p>
 <p>Same with the NY Times, which also often makes charts as SVGs.<sup><a  href="#svg-and-css-charts">[3]</a></sup></p></td>
