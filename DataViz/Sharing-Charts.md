@@ -3,16 +3,15 @@
 
 So we're checking how other research/news orgs present their data, in static-images, i.e., not interactives. Do their charts have: the chart title, data sources, the site's name? Is the chart a link (if so, to what)?
 
-<em>Click site-name to see article and image for full size chart:</em>
 <table class="files">
 <thead>
 <tr>
-<td><em>[Click for article]</em></small></td>
+<td><em>[click for article]</em></small></td>
 <th scope="col">title</th>
 <th scope="col">src</th>
 <th scope="col">name</th>
 <th scope="col">link</th>
-<td width="370"><<small><em>[Click for image]</em></td>
+<td width="370"><em>[click for image]</em></td>
 </tr>
 </thead>
 <tbody>
