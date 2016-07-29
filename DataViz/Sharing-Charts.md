@@ -43,6 +43,16 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 <td><a href="https://i.guim.co.uk/img/media/913cb4b590085d0b0fe940f49f0b09e1ae7a10b9/0_0_882_593/master/882.jpg?w=620&q=20&auto=format&usm=12&fit=max&dpr=2&s=aa781b5445f87617e4a9befd5b26477a"><img src="https://i.guim.co.uk/img/media/913cb4b590085d0b0fe940f49f0b09e1ae7a10b9/0_0_882_593/master/882.jpg?w=620&q=20&auto=format&usm=12&fit=max&dpr=2&s=aa781b5445f87617e4a9befd5b26477a" width="350" alt="The Guardian chart" /></a></td>
 </tr>
 <tr>
+<td><p><a href="http://headwaterseconomics.org/economic-development/trends-performance/west-wide-summary/">Headwaters Economics </a></p>
+<p>Sometimes HE chart titles are in the image, <a href="http://headwaterseconomics.org/wphw/wp-content/uploads/fire_suppression_costs-1-mt-fire-costs.png">sometimes not</a>.</p></td>
+<td>√</td>
+<td></td>
+<td></td>
+<td></td>
+<td><a href="http://headwaterseconomics.org/wphw/wp-content/uploads/west-wide-summary-total-employment-2016-small.png"><img src="http://headwaterseconomics.org/wphw/wp-content/uploads/west-wide-summary-total-employment-2016-small.png" width="350" alt="Headwaters Economics chart" /></a></td>
+</tr>
+
+<tr>
 <td><p><a href="http://www.heritage.org/research/reports/2016/07/eliminate-favorable-treatment-of-biofuels">Heritage Foundation</a></p>
 <p>Chart image links to itself.</p></td>
 <td>√</td>
