@@ -26,7 +26,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 </tr>
 <tr>
 <td><p><a href="http://fivethirtyeight.com/features/the-jobs-recovery-may-not-be-flashy-but-its-strong/">FiveThirtyEight</a></p>
-<p>Site name and logo in image.</p></td>
+<p>Along with name, the site logo is also in the image.</p></td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
@@ -62,7 +62,8 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 </tr>
 <tr>
 <td><p><a href="https://www.propublica.org/article/unsafe-at-many-speeds">ProPublica</a></p>
-<p><p>Like the NY Times, few ProPublica charts are static images; most are interactives or SVG or designed in CSS.<sup><a  href="#svg-and-css-charts">[3]</a></sup></p></td>
+<p>Few ProPublica charts are static images; most are interactives or designed with CSS.</p>
+<p>Same with the NY Times, which also often makes charts as SVGs.<sup><a  href="#svg-and-css-charts">[3]</a></sup></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -88,7 +89,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 </tr>
 <tr>
 <td><p><a href="https://today.yougov.com/news/2016/07/20/dangers-too-much-negative/">YouGov</a></p>
-<p>Name and URL of site in image.</p></td>
+<p>Along with name, the site URL is also in the image.</p></td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
