@@ -115,7 +115,7 @@ Each chart page is part of a click-thru gallery of pages for all the charts in a
 
 Also check the way Pew makes it easy to share their interactives, as in their <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/">State of the Media</a> annual reports. Each interactive chart has tabs labeled "Data" (in a table) and "Embed" (in HTML iframe code).
 
-<img width="530" alt="Screenshot of Pew interactive tabs" src="https://raw.githubusercontent.com/hearvox/Research/master/DataViz/Pew-interactive-tabs.png" /></a>
+<img width="530" alt="Screenshot of Pew interactive tabs" src="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/" /></a>
 
 <h2>SVG and CSS charts</h2>
 Most New York Times are either interactives, <a href="http://www.nytimes.com/2016/07/23/upshot/were-about-to-enter-a-period-of-polling-volatility.html#embedded-polling-averages">drawn using SVG</a>, or <a href="http://www.nytimes.com/2016/03/31/science/global-warming-antarctica-ice-sheet-sea-level-rise.html#g-antarctica-600">text styed with CSS</a>. NYT uses few static-image charts. <a href="https://www.propublica.org/article/study-urges-cdc-to-revise-count-of-deaths-from-medical-error">ProPublica also uses CSS</a> for most of its charts.
