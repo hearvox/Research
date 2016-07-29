@@ -106,11 +106,13 @@ For instance, <a href="https://www.facebook.com/dialog/share?app_id=180444840287
 The image at right show how their charts' social icons display. FB's <a href="https://developers.facebook.com/docs/sharing/reference/feed-dialog">Feed Dialog - Sharing</a> dev doc has more info on the coding.
 
 <h2>HTML embed code</h2>
-<a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/ft_16-02-xx_environmentalregulation_2/"><img align="right" alt="Screenshot of Pew chart page" src="https://raw.githubusercontent.com/hearvox/Research/master/DataViz/Pew-chart-page.png" /></a>Pew takes sharing seriously. Each chart links <a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/ft_16-02-xx_environmentalregulation_2/">to its own page</a>. The page has image HTML code so other sites can copy-&amp;-paste it into their content. The HTML has a link back to the Pew report.
+<a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/ft_16-02-xx_environmentalregulation_2/"><img align="right" alt="Screenshot of Pew chart page" src="https://raw.githubusercontent.com/hearvox/Research/master/DataViz/Pew-chart-page.png" /></a>Pew takes sharing seriously. Each chart links <a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/ft_16-02-xx_environmentalregulation_2/">to its own page</a>.
 
-And each chart page is part of a click-thru gallery of pages for all charts in a report.
+The page has HTML image code that, for instance, a news site can copy-&amp;-paste it into an article. The HTML includes a link back to the Pew report.
 
-They check the way they make it easy to share their interactives, as in their <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/">State of the Media</a> annual reports. Each interactive chart has tabs labeled "Data" (in a table) and "Embed" (HTML iframe code).
+Each chart page is part of a click-thru gallery of pages for all the charts in a report.
+
+Also check the way Pew make it easy to share their interactives, as in their <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/">State of the Media</a> annual reports. Each interactive chart has tabs labeled "Data" (in a table) and "Embed" (in HTML iframe code).
 
 <h2>SVG and CSS charts</h2>
 Most New York Times are either interactives, <a href="http://www.nytimes.com/2016/07/23/upshot/were-about-to-enter-a-period-of-polling-volatility.html#embedded-polling-averages">drawn using SVG</a>, or <a href="http://www.nytimes.com/2016/03/31/science/global-warming-antarctica-ice-sheet-sea-level-rise.html#g-antarctica-600">text styed with CSS</a>. NYT uses few static-image charts. <a href="https://www.propublica.org/article/study-urges-cdc-to-revise-count-of-deaths-from-medical-error">ProPublica also uses CSS</a> for most of its charts.
