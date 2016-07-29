@@ -72,7 +72,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 </tr>
 <tr>
 <td><p><a href="http://www.perc.org/articles/clearing-smoke-wildfire-policy-economic-perspective">PERC</a></p>
-<p>Note: Should tables be images or text? Images are simpler to share but the text isn't selectable. Text is harder to share but can be selected (e.g., to copy-&-paste data).</td>
+<p>Q: Should tables be images or text? Images are simple to share but the text isn't selectable. Text is harder to share but can be selected (to copy-&-paste data).</td>
 <td>√</td>
 <td>√</td>
 <td></td>
