@@ -71,17 +71,14 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 <td><a href="http://www.pewresearch.org/files/2016/02/FT_16.02.XX_EnvironmentalRegulation_2.png"><img src="http://www.pewresearch.org/files/2016/02/FT_16.02.XX_EnvironmentalRegulation_2.png" width="350" alt="Pew Research Center chart" /></a></td>
 </tr>
 <tr>
-<td><p><a href="http://www.perc.org/articles/clearing-smoke-wildfire-policy-economic-perspective">PERC</a></p></td>
+<td><p><a href="http://www.perc.org/articles/clearing-smoke-wildfire-policy-economic-perspective">PERC</a></p>
+<p>Note: this table chart is an image (not text). Brings up issue: should tables be images or text? Images are simpler to share but the text isn't selectable. Text is harder to share but can be selected, so possible to copy-&-paste data.</td>
 <td>√</td>
 <td>√</td>
 <td></td>
 <td></td>
-<td><a href="http://www.perc.org/sites/default/files/PS56-Figure4.png"><img src="http://www.perc.org/sites/default/files/PS56-Figure4.png" width="350" alt="PERC chart" /></a></td>
+<td><a href="http://www.perc.org/sites/default/files/PS56-Table1.png"><img src="http://www.perc.org/sites/default/files/PS56-Table1.png" width="350" alt="PERC chart" /></a></td>
 </tr>
-
-
-
-
 <tr>
 <td><p><a href="https://www.propublica.org/article/unsafe-at-many-speeds">ProPublica</a></p>
 <p>Few ProPublica charts are static images; most are interactives or designed with CSS.</p>
