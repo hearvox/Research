@@ -6,12 +6,12 @@ So we're checking how other research/news orgs present their data, in static-ima
 <table class="files">
 <thead>
 <tr>
-<td><em>[click for article]</em></small></td>
+<td><em>[click for article:]</em></small></td>
 <th scope="col">title</th>
 <th scope="col">src</th>
 <th scope="col">name</th>
 <th scope="col">link</th>
-<td width="370"><em>[click for image]</em></td>
+<td width="370" align="right"><em>[click for image]</em></td>
 </tr>
 </thead>
 <tbody>
@@ -104,6 +104,6 @@ Most New York Times are either interactives, <a href="http://www.nytimes.com/201
 Neither CSS-ed nor SVG-ed charts are easy to embed at other sites. 
 
 <h2>The Guardian: Social sharing images</h2>
-<img src="https://raw.githubusercontent.com/hearvox/Research/master/DataViz/Guardian-chart-social-share.png" />
+<img align="right" src="https://raw.githubusercontent.com/hearvox/Research/master/DataViz/Guardian-chart-social-share.png" />
 
 
