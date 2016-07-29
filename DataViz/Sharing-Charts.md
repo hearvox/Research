@@ -6,12 +6,12 @@ So we're checking how other research/news orgs present their data, in static-ima
 <table class="files">
 <thead>
 <tr>
-<td><em>[click for article:]</em></small></td>
+<td><em>[click to article:]</em></small></td>
 <th scope="col">title</th>
 <th scope="col">src</th>
 <th scope="col">name</th>
 <th scope="col">link</th>
-<td width="370" align="right"><em>[click for image]</em></td>
+<td width="370" align="right"><em>[click to image:]</em></td>
 </tr>
 </thead>
 <tbody>
