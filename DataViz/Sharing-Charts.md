@@ -35,7 +35,7 @@ So we're checking how other research/news orgs present their data, in static-ima
 </tr>
 <tr>
 <td><p><a href="https://www.theguardian.com/sustainable-business/2016/jul/02/america-solar-power-workforce-growing-market-solarcity-suniva">The Guardian</a></p>
-<p>Chart links to a <a href="https://www.theguardian.com/sustainable-business/2016/jul/02/america-solar-power-workforce-growing-market-solarcity-suniva#img-1">modal gallery of all charts <em>and</a> photos</a> in the article.<sup><a href="#cite_note-1">[1]</a></sup></p></td>
+<p>Chart links to a <a href="https://www.theguardian.com/sustainable-business/2016/jul/02/america-solar-power-workforce-growing-market-solarcity-suniva#img-1">modal gallery of all charts <em>and</em> photos</a> in the article.<sup><a id="cite_ref-1" href="#cite_note-1">[1]</a></sup></p></td>
 <td>√</td>
 <td></td>
 <td></td>
@@ -103,13 +103,13 @@ Most New York Times are either interactives, <a href="http://www.nytimes.com/201
 
 Neither CSS-ed nor SVG-ed charts are easy to embed at other sites. 
 
-<h2><sup><a href="#cite_ref-1">[1^]</a></sup> The Guardian: Social sharing images</h2>
-All articles have social icons that allow you to share the URL, with the title, excerpt, and featured image embedded in the social post. But <a href="https://www.theguardian.com/sustainable-business/2016/jul/02/america-solar-power-workforce-growing-market-solarcity-suniva">articles in the The Guardian</a> also has social icons for each of their charts, so you can share a specfic chart image (with artiticle URL, title, and excerpt).
+<h2>The Guardian: Social sharing images <sup><a id="cite_note-1" href="#cite_ref-1">^</a></sup></h2>
+<a href="https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsustainable-business%2F2016%2Fjul%2F02%2Famerica-solar-power-workforce-growing-market-solarcity-suniva%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F913cb4b590085d0b0fe940f49f0b09e1ae7a10b9%2F0_0_882_593%2F882.jpg"><img align="right" src="https://raw.githubusercontent.com/hearvox/Research/master/DataViz/Guardian-chart-social-share.png" /></a>All articles have social icons that allow you to share the URL, with the title, excerpt, and featured image embedded in the social post. But <a href="https://www.theguardian.com/sustainable-business/2016/jul/02/america-solar-power-workforce-growing-market-solarcity-suniva">articles in the The Guardian</a> also has social icons for each of their charts, so you can share a specfic chart image (with artiticle URL, title, and excerpt).
 
 
 
 
-For instance, <a href="https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsustainable-business%2F2016%2Fjul%2F02%2Famerica-solar-power-workforce-growing-market-solarcity-suniva%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F913cb4b590085d0b0fe940f49f0b09e1ae7a10b9%2F0_0_882_593%2F882.jpg">this link opens an FB share window</a> with a selected chart. The image at right show how their charts' social icons display. <a href="https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsustainable-business%2F2016%2Fjul%2F02%2Famerica-solar-power-workforce-growing-market-solarcity-suniva%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F913cb4b590085d0b0fe940f49f0b09e1ae7a10b9%2F0_0_882_593%2F882.jpg"><img align="right" src="https://raw.githubusercontent.com/hearvox/Research/master/DataViz/Guardian-chart-social-share.png" /></a>. 
+For instance, <a href="https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsustainable-business%2F2016%2Fjul%2F02%2Famerica-solar-power-workforce-growing-market-solarcity-suniva%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F913cb4b590085d0b0fe940f49f0b09e1ae7a10b9%2F0_0_882_593%2F882.jpg">this link opens an FB share window</a> with a selected chart. The image at right show how their charts' social icons display. 
 
 FB's <a href="https://developers.facebook.com/docs/sharing/reference/feed-dialog">Feed Dialog - Sharing</a> dev doc has more info.
 
