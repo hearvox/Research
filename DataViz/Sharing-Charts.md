@@ -16,13 +16,13 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 </thead>
 <tbody>
 <tr>
-<td><p><a href="http://www.brookings.edu/research/reports/2016/06/16-informal-child-care-is-more-likely-to-harm-children-loeb">Brookings Institution</a>
+<td><p><a href="https://www.brookings.edu/research/do-state-subsidies-for-public-universities-favor-the-affluent/">Brookings Institution</a>
 <p>Chart links to full size version in modal window (just the one chart: <em>not</em> a gallery of multiple charts from a report, e.g., as The Guardian does ).</p></td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
-<td><a href="https://www.brookings.edu/wp-content/uploads/2016/07/figure-1-3.png?w=768&crop=0%2C0px%2C100%2C9999px&ssl=1"><img src="https://www.brookings.edu/wp-content/uploads/2016/07/figure-1-3.png?w=768&crop=0%2C0px%2C100%2C9999px&ssl=1" width="350" alt="Brookings Institution chart" /></a></td>
+<td><a href="https://www.brookings.edu/wp-content/uploads/2016/07/ES_20160728_public_university_subsidies_001.png?w=768&crop=0%2C0px%2C100%2C9999px&ssl=1"><img src="https://www.brookings.edu/wp-content/uploads/2016/07/ES_20160728_public_university_subsidies_001.png?w=768&crop=0%2C0px%2C100%2C9999px&ssl=1" width="350" alt="Brookings Institution chart" /></a></td>
 </tr>
 <tr>
 <td><p><a href="http://fivethirtyeight.com/features/the-jobs-recovery-may-not-be-flashy-but-its-strong/">FiveThirtyEight</a></p>
