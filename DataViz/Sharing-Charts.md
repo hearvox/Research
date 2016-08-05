@@ -22,7 +22,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 <td>√</td>
 <td>√</td>
 <td>√</td>
-<td><a href="http://www.brookings.edu/~/media/Research/Files/Reports/2016/06/16-informal-child-care-is-more-likely-to-harm-children-loeb/figure-1.png"><img src="http://www.brookings.edu/~/media/Research/Files/Reports/2016/06/16-informal-child-care-is-more-likely-to-harm-children-loeb/figure-1.png" width="350" alt="Brookings Institution chart" /></a></td>
+<td><a href="https://www.brookings.edu/wp-content/uploads/2016/07/figure-1-3.png?w=768&crop=0%2C0px%2C100%2C9999px&ssl=1"><img src="https://www.brookings.edu/wp-content/uploads/2016/07/figure-1-3.png?w=768&crop=0%2C0px%2C100%2C9999px&ssl=1" width="350" alt="Brookings Institution chart" /></a></td>
 </tr>
 <tr>
 <td><p><a href="http://fivethirtyeight.com/features/the-jobs-recovery-may-not-be-flashy-but-its-strong/">FiveThirtyEight</a></p>
