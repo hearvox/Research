@@ -37,7 +37,7 @@ https://www.facebook.com/hearvox/app/190322544333196/
 Tab image 111x74
 
 
-## Audio Plaftorms ##
+## Sound Plaftorms ##
 
 ### PRX ###
 Kitchen Sisters
@@ -99,6 +99,7 @@ http://hearingvoices.com/wip/current/embeds/card-twitter/player/container-audio.
 http://hearingvoices.com/wip/current/embeds/card-twitter/player/video.html
 http://hearingvoices.com/wip/current/embeds/card-twitter/player/page.html
 http://hearingvoices.com/wip/current/embeds/card-twitter/player/container-audio.html
+
 ### WNYC Player Card ###
 http://www.niemanlab.org/2014/05/you-can-add-audio-and-video-players-inside-your-tweets-just-as-wnyc-did-for-a-maya-angelou-interview/
 https://twitter.com/WNYC/status/471683856291356672
@@ -148,29 +149,6 @@ To demo whitelisting:
 https://pubmedia.us/wip/current/embeds/cards-player/player/page.html
 
 
-## Flash ##
-Flash Test: <object> mediaelement mp3 and mp3
-http://hearingvoices.com/wip/current/flash-test.html
-classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
-param name="wmode" value="transparent"
-
-WP_URL . '/wp-includes/js/mediaelement/flashmediaelement.swf'controls=true&amp;file={$flash_src}
-$flash_src = htmlspecialchars($mp3);
-<object width="{$width}" height="{$height}" type="application/x-shockwave-flash" data="{$dir}flashmediaelement.swf">
-	<param name="movie" value="{$dir}flashmediaelement.swf" />
-	<param name="flashvars" value="controls=true&amp;file={$flash_src}" />
-</object>
-
-http://hearingvoices.com/news/wp-content/uploads/flash/
-facebook_embed.swf
-flowplayer-3.2.10.swf
-KGLT-ID_Bass-Roberti.mp3
-
-
-## Players ##
-jPlayer
-https://www.neocsatblog.info/jwplayer/player.swf?file=THE_VIDEO_ENCODED_URL&autostart=true
-
 
 ## PBS ##
 ### Bento ###
@@ -178,16 +156,37 @@ https://www.neocsatblog.info/jwplayer/player.swf?file=THE_VIDEO_ENCODED_URL&auto
 ### Cove ###
 http://www.pbs.org/video/3000444301/
 
+
+## Sound Players ##
+jPlayer
+https://www.neocsatblog.info/jwplayer/player.swf?file=THE_VIDEO_ENCODED_URL&autostart=true
+
+### Flash ###
+Flash Test: <object> mediaelement mp3 and mp3
+http://hearingvoices.com/wip/current/flash-test.html
+classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+param name="wmode" value="transparent"
+
+`WP_URL . '/wp-includes/js/mediaelement/flashmediaelement.swf'controls=true&amp;file={$flash_src}`
+`$flash_src = htmlspecialchars($mp3);`
+`<object width="{$width}" height="{$height}" type="application/x-shockwave-flash" data="{$dir}flashmediaelement.swf">
+	<param name="movie" value="{$dir}flashmediaelement.swf" />
+	<param name="flashvars" value="controls=true&amp;file={$flash_src}" />`
+</object>
+
+
 ## WNYC Audigrams ##
 
 Also see Twitter> WNYC Player Card
 
 
 
+http://hearingvoices.com/news/wp-content/uploads/flash/
+facebook_embed.swf
+flowplayer-3.2.10.swf
+KGLT-ID_Bass-Roberti.mp3
 
 
-
-____________________________________
 ## WordPress ##
 https://github.com/hearvox/sound-shares
 
@@ -198,8 +197,7 @@ https://github.com/mediaelement/mediaelement/blob/master/docs/usage.md#vanilla
 
 http://hearingvoices.com/news/wp-includes/js/mediaelement/flashmediaelement.swf?controls=true&file=http://hearvox.com/snd/kglt/sonic_id/KGLT-ID_Bass-Roberti.mp3
 
-____________________________________
-## HV Tests ##
+### HV Tests ###
 http://hearingvoices.com/test0/
 (Default) /page-test0 (Template Name: Test 0)
 /header-test_fb_embed_audioboom /footer-new
@@ -225,7 +223,6 @@ http://hearingvoices.com/test-fb-embed/
 https://www.facebook.com/groups/transom.tow.test/permalink/1310187565684817/
 
 
-____________________________________
 ## XML Namespaces ##
 https://en.wikipedia.org/wiki/XML_namespace
 
@@ -255,7 +252,7 @@ https://developers.google.com/custom-search/docs/element
 https://developers.google.com/custom-search/docs/element#html5
 
 
-____________________________________
+
 
 
 
