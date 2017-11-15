@@ -119,6 +119,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 </table>
 
 <h2>Social sharing images</h2>
+
 <a href="https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsustainable-business%2F2016%2Fjul%2F02%2Famerica-solar-power-workforce-growing-market-solarcity-suniva%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F913cb4b590085d0b0fe940f49f0b09e1ae7a10b9%2F0_0_882_593%2F882.jpg"><img  width="316" align="right"  alt="Screenshot of The Gaurdian social sharing icons under a chart" src="https://raw.githubusercontent.com/hearvox/Research/master/DataViz/Guardian-chart-social-share.png" /></a>All news/research orgs have social icons for sharing the URL. But <a href="https://www.theguardian.com/sustainable-business/2016/jul/02/america-solar-power-workforce-growing-market-solarcity-suniva">The Guardian</a> also has lets you share a specific charts (with the article's URL, title, and excerpt).
 
 For instance, <a href="https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsustainable-business%2F2016%2Fjul%2F02%2Famerica-solar-power-workforce-growing-market-solarcity-suniva%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F913cb4b590085d0b0fe940f49f0b09e1ae7a10b9%2F0_0_882_593%2F882.jpg">this link opens an FB share window with a selected chart</a>.
@@ -126,6 +127,7 @@ For instance, <a href="https://www.facebook.com/dialog/share?app_id=180444840287
 The image at right shows how their charts' social icons display. FB's <a href="https://developers.facebook.com/docs/sharing/reference/feed-dialog">Feed Dialog - Sharing</a> dev doc has more info on the coding.
 
 <h2>HTML embed code</h2>
+
 <a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/ft_16-02-xx_environmentalregulation_2/"><img width="316" align="right" alt="Screenshot of Pew chart page" src="https://raw.githubusercontent.com/hearvox/Research/master/DataViz/Pew-chart-page.png" /></a>Pew takes sharing seriously. Each chart links <a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/ft_16-02-xx_environmentalregulation_2/">to its own page</a>.
 
 The page has HTML image code that, for instance, a news site can copy-&amp;-paste it into an article. The HTML includes a link back to the Pew report.
@@ -137,6 +139,7 @@ Also check the way Pew makes it easy to share their interactives, as in their <a
 <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience"><img width="530" alt="Screenshot of Pew interactive tabs" src="https://raw.githubusercontent.com/hearvox/Research/master/DataViz/Pew-interactive-tabs.png" /></a>
 
 <h2>SVG and CSS charts</h2>
+
 Most New York Times charts are either interactives, <a href="http://www.nytimes.com/2016/07/23/upshot/were-about-to-enter-a-period-of-polling-volatility.html#embedded-polling-averages">drawn using SVG</a>, or <a href="http://www.nytimes.com/2016/03/31/science/global-warming-antarctica-ice-sheet-sea-level-rise.html#g-antarctica-600">text styled with CSS</a>. NYT uses few static-image charts. <a href="https://www.propublica.org/article/study-urges-cdc-to-revise-count-of-deaths-from-medical-error">ProPublica also uses CSS</a> for most of its charts.
 
 Neither CSS-ed nor SVG-ed charts are easy to embed at other sites. 
