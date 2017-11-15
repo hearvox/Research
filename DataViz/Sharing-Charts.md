@@ -1,4 +1,5 @@
 <h1>Sharing Charts</h1>
+
 <a href="http://headwaterseconomics.org/">Headwaters Economics</a> wants to make it easier for sites to use our data charts. So we're checking how other research/news orgs present their data (just static-images for now -- not interactives).
 
 Do their charts have: the chart title, data sources, the site's name? Is the chart a link (if so, to what)?
