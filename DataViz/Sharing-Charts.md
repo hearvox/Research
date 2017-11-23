@@ -36,7 +36,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 </tr>
 <tr>
 <td><p><a href="https://www.theguardian.com/sustainable-business/2016/jul/02/america-solar-power-workforce-growing-market-solarcity-suniva">The Guardian</a></p>
-<p>Chart links to a <a href="https://www.theguardian.com/sustainable-business/2016/jul/02/america-solar-power-workforce-growing-market-solarcity-suniva#img-1">modal gallery of all charts <em>and</em> photos</a> in the article.<sup><a href="#social-sharing-images">[1]</a></sup> (CMS: <a href="https://www.theguardian.com/info/developer-blog/2014/mar/20/inside-the-guardians-cms-meet-scribe-an-extensible-rich-text-editor" Scribe</a>)</p></td>
+<p>Chart links to a <a href="https://www.theguardian.com/sustainable-business/2016/jul/02/america-solar-power-workforce-growing-market-solarcity-suniva#img-1">modal gallery of all charts <em>and</em> photos</a> in the article.<sup><a href="#social-sharing-images">[1]</a></sup> (CMS: <a href="https://www.theguardian.com/info/developer-blog/2014/mar/20/inside-the-guardians-cms-meet-scribe-an-extensible-rich-text-editor">Scribe</a>)</p></td>
 <td>√</td>
 <td></td>
 <td></td>
@@ -91,7 +91,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 <tr>
 <td><p><a href="https://www.propublica.org/article/unsafe-at-many-speeds">ProPublica</a></p>
 <p>Few ProPublica charts are static images; most are interactives or designed with CSS.</p>
-<p>Same with the NY Times, which also makes SVG charts.<sup><a  href="#svg-and-css-charts">[3]</a></sup>  (CMS: <a href="https://source.opennews.org/articles/new-propublica-site/">Craft</a>)</p></td>
+<p>Same with the NY Times, which also makes SVG charts.<sup><a  href="#svg-and-css-charts">[3]</a></sup> (CMS: <a href="https://source.opennews.org/articles/new-propublica-site/">Craft</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -108,7 +108,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 </tr>
 <tr>
 <td><p><a href="https://www.washingtonpost.com/news/fancy-stats/wp/2016/07/26/os-dylan-bundy-has-the-pitches-he-needs-to-be-an-effective-starter/">Washington Post</a></p>
-<p>WaPo name not in image but name of site section is ("Fancy Stats"). Chart links to full size version in modal window (not a gallery).</p></td>
+<p>WaPo name not in image but name of site section is ("Fancy Stats"). Chart links to full size version in modal window -- not a gallery. (CMS: WordPress/<a href="https://www.arcpublishing.com/">Arc Publishing</a>)</p></td>
 <td>√</td>
 <td>√</td>
 <td></td>
@@ -117,7 +117,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 </tr>
 <tr>
 <td><p><a href="https://today.yougov.com/news/2016/07/20/dangers-too-much-negative/">YouGov</a></p>
-<p>Along with name, the site URL is also in the image.</p></td>
+  <p>Along with name, the site URL is also in the image. <small>(CMS: ?)</small></p></td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
