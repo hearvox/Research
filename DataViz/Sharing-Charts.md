@@ -18,7 +18,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 <tbody>
 <tr>
 <td><p><a href="https://www.brookings.edu/research/do-state-subsidies-for-public-universities-favor-the-affluent/">Brookings Institution</a>
-<p>Chart links to full size version in modal window (just the one chart: <em>not</em> a gallery of multiple charts from a report, e.g., as The Guardian does ).</p></td>
+<p>Chart links to full size version in modal window -- a single chart: <em>not</em> a gallery of multiple charts from a report, e.g., as The Guardian does. (CMS: WordPress)</p></td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
@@ -27,7 +27,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 </tr>
 <tr>
 <td><p><a href="http://fivethirtyeight.com/features/the-jobs-recovery-may-not-be-flashy-but-its-strong/">FiveThirtyEight</a></p>
-<p>Along with name, the site logo is also in the image.</p></td>
+<p>Along with name, the site logo is also in the image. (CMS: WordPress)</p></td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
@@ -36,7 +36,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 </tr>
 <tr>
 <td><p><a href="https://www.theguardian.com/sustainable-business/2016/jul/02/america-solar-power-workforce-growing-market-solarcity-suniva">The Guardian</a></p>
-<p>Chart links to a <a href="https://www.theguardian.com/sustainable-business/2016/jul/02/america-solar-power-workforce-growing-market-solarcity-suniva#img-1">modal gallery of all charts <em>and</em> photos</a> in the article.<sup><a  href="#social-sharing-images">[1]</a></sup></p></td>
+<p>Chart links to a <a href="https://www.theguardian.com/sustainable-business/2016/jul/02/america-solar-power-workforce-growing-market-solarcity-suniva#img-1">modal gallery of all charts <em>and</em> photos</a> in the article.<sup><a href="#social-sharing-images">[1]</a></sup> (CMS: <a href="https://www.theguardian.com/info/developer-blog/2014/mar/20/inside-the-guardians-cms-meet-scribe-an-extensible-rich-text-editor" Scribe</a>)</p></td>
 <td>√</td>
 <td></td>
 <td></td>
@@ -45,17 +45,16 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 </tr>
 <tr>
 <td><p><a href="http://headwaterseconomics.org/economic-development/trends-performance/west-wide-summary/">Headwaters Economics </a></p>
-<p>Sometimes HE chart titles are in the image, <a href="http://headwaterseconomics.org/wphw/wp-content/uploads/fire_suppression_costs-1-mt-fire-costs.png">sometimes not</a>.</p></td>
+<p>Sometimes HE chart titles are in the image, <a href="http://headwaterseconomics.org/wphw/wp-content/uploads/fire_suppression_costs-1-mt-fire-costs.png">sometimes not</a>. (CMS: WordPress)</p></td>
 <td>√</td>
 <td></td>
 <td></td>
 <td></td>
 <td><a href="http://headwaterseconomics.org/wphw/wp-content/uploads/west-wide-summary-total-employment-2016-small.png"><img src="http://headwaterseconomics.org/wphw/wp-content/uploads/west-wide-summary-total-employment-2016-small.png" width="350" alt="Headwaters Economics chart" /></a></td>
 </tr>
-
 <tr>
 <td><p><a href="http://www.heritage.org/environment/report/eliminate-favorable-treatment-biofuels">Heritage Foundation</a></p>
-<p>Chart image links to itself.</p></td>
+<p>Chart image links to itself. (CMS: Drupal)</p></td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
@@ -64,7 +63,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 </tr>
 <tr>
 <td><p><a href="https://ourworldindata.org/global-rise-of-education">Our World in Data</a></p>
-<p>Tabs for chart, data (csv download), sources, download (png or svg download), embed (social and iframe), fullscreen. Link on sources in chart opens sources tab.</p></td>
+<p>Tabs for chart, data (csv download), sources, download (png or svg download), embed (social and iframe), fullscreen. Link on sources in chart opens sources tab. (CMS: WordPress)</p></td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
@@ -73,7 +72,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 </tr>
 <tr>
 <td><p><a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/">Pew Research Center</a></p>
-<p>Chart links <a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/ft_16-02-xx_environmentalregulation_2/">to its own page</a>, part of a gallery of pages of all charts in the report.<sup><a  href="#html-embed-code">[2]</a></sup></p></td>
+<p>Chart links <a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/ft_16-02-xx_environmentalregulation_2/">to its own page</a>, part of a gallery of pages of all charts in the report.<sup><a  href="#html-embed-code">[2]</a></sup>  (CMS: WordPress)</p></td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
@@ -82,7 +81,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 </tr>
 <tr>
 <td><p><a href="http://www.perc.org/articles/clearing-smoke-wildfire-policy-economic-perspective">PERC</a></p>
-<p>Should tables be images or text? Images are simple to share but the text isn't selectable. Text is harder to share but can be selected (e.g., to copy-&-paste data).</td>
+<p>Should tables be images or text? Images are simple to share but the text isn't selectable. Text is harder to share but can be selected -- e.g., to copy-&-paste data. (CMS: Drupal)</td>
 <td>√</td>
 <td>√</td>
 <td></td>
@@ -92,7 +91,7 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 <tr>
 <td><p><a href="https://www.propublica.org/article/unsafe-at-many-speeds">ProPublica</a></p>
 <p>Few ProPublica charts are static images; most are interactives or designed with CSS.</p>
-<p>Same with the NY Times, which also makes SVG charts.<sup><a  href="#svg-and-css-charts">[3]</a></sup></p></td>
+<p>Same with the NY Times, which also makes SVG charts.<sup><a  href="#svg-and-css-charts">[3]</a></sup>  (CMS: <a href="https://source.opennews.org/articles/new-propublica-site/">Craft</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
