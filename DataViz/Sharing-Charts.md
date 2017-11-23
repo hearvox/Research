@@ -63,6 +63,15 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 <td><a href="http://www.heritage.org/sites/default/files/~/media/infographics/2016/07/bg3145/ud-ag-2016-biofuels-chart-5-corn-and-ethanol-prices-600.jpg"><img src="http://www.heritage.org/sites/default/files/~/media/infographics/2016/07/bg3145/ud-ag-2016-biofuels-chart-5-corn-and-ethanol-prices-600.jpg" width="350" alt="Heritage Foundation chart" /></a></td>
 </tr>
 <tr>
+<td><p><a href="https://ourworldindata.org/global-rise-of-education">Our World in Data</a></p>
+<p>Tbas for chart, data (csv download), sources, download (png or svg download), embed (social and iframe), fullscreen. Link on sources in chart opens sources tab.</p></td>
+<td>√</td>
+<td>√</td>
+<td>√</td>
+<td>√</td>
+<td><a href="http://www.heritage.org/sites/default/files/~/media/infographics/2016/07/bg3145/ud-ag-2016-biofuels-chart-5-corn-and-ethanol-prices-600.jpg"><img src="http://www.heritage.org/sites/default/files/~/media/infographics/2016/07/bg3145/ud-ag-2016-biofuels-chart-5-corn-and-ethanol-prices-600.jpg" width="350" alt="Chart: Literate and illiterate world population" /></a></td>
+</tr>
+<tr>
 <td><p><a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/">Pew Research Center</a></p>
 <p>Chart links <a href="http://www.pewresearch.org/fact-tank/2016/02/25/public-support-for-environmental-regulations-varies-by-state/ft_16-02-xx_environmentalregulation_2/">to its own page</a>, part of a gallery of pages of all charts in the report.<sup><a  href="#html-embed-code">[2]</a></sup></p></td>
 <td>√</td>
