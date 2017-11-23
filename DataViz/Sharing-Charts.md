@@ -99,7 +99,8 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 <td><a href="https://www.propublica.org/images/ngen/gypsy_image_630/20160525-lanewidthadapted-630.jpg"><img src="https://www.propublica.org/images/ngen/gypsy_image_630/20160525-lanewidthadapted-630.jpg" width="350" alt="ProPublica chart" /></a></td>
 </tr>
 <tr>
-<td><p><a href="http://www.vox.com/2016/7/20/12148750/republican-party-trump-lincoln">Vox</a></p></td>
+<td><p><a href="http://www.vox.com/2016/7/20/12148750/republican-party-trump-lincoln">Vox</a></p>
+  <p>(CMS: <a href="https://product.voxmedia.com/2012/5/6/5426772/all-together-now-introducing-the-vox-product-blog-and-chorus">Chorus</a></p></td>
 <td>√</td>
 <td>√</td>
 <td>√</td>
