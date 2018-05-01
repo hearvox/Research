@@ -1,8 +1,10 @@
 <h1>Sharing Charts</h1>
 
-<a href="http://headwaterseconomics.org/">Headwaters Economics</a> wants to make it easier for sites to use our data charts. So we're checking how other research/news orgs present their data (just static-images for now -- not interactives).
+Your charts wiil be shared. Perhaps you want to encouage sharing. Perhaps you don/t, But, in either case, reporters will use them in their articles and bloggers will put them in their posts. 
 
-Do their charts have: the chart title, data sources, the site's name? Is the chart a link (if so, to what)?
+Once outside of site, you've no control of how your charts display nor what text surrounds them. So maybe you want your charts self-contained. Should the title should be part of the image> How about your logo?
+
+Let's find out how the "bigs" answer these questions. Here's a survey of how several major news outlets and research institutions present their data in static-image charts (not interactives): whether they include a title, data sources, and site name, and whether the chart is linked (if so, to what, e.g., a larger version of the image).
 
 <table class="files">
 <thead>
@@ -44,15 +46,6 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 <td><a href="https://i.guim.co.uk/img/media/913cb4b590085d0b0fe940f49f0b09e1ae7a10b9/0_0_882_593/master/882.jpg?w=620&q=20&auto=format&usm=12&fit=max&dpr=2&s=aa781b5445f87617e4a9befd5b26477a"><img src="https://i.guim.co.uk/img/media/913cb4b590085d0b0fe940f49f0b09e1ae7a10b9/0_0_882_593/master/882.jpg?w=620&q=20&auto=format&usm=12&fit=max&dpr=2&s=aa781b5445f87617e4a9befd5b26477a" width="350" alt="The Guardian chart" /></a></td>
 </tr>
 <tr>
-<td><p><a href="http://headwaterseconomics.org/economic-development/trends-performance/west-wide-summary/">Headwaters Economics </a></p>
-<p>Sometimes HE chart titles are in the image, <a href="http://headwaterseconomics.org/wphw/wp-content/uploads/fire_suppression_costs-1-mt-fire-costs.png">sometimes not</a>. (CMS: WordPress)</p></td>
-<td>√</td>
-<td></td>
-<td></td>
-<td></td>
-<td><a href="http://headwaterseconomics.org/wphw/wp-content/uploads/west-wide-summary-total-employment-2016-small.png"><img src="http://headwaterseconomics.org/wphw/wp-content/uploads/west-wide-summary-total-employment-2016-small.png" width="350" alt="Headwaters Economics chart" /></a></td>
-</tr>
-<tr>
 <td><p><a href="http://www.heritage.org/environment/report/eliminate-favorable-treatment-biofuels">Heritage Foundation</a></p>
 <p>Chart image links to itself. (CMS: Drupal)</p></td>
 <td>√</td>
@@ -78,15 +71,6 @@ Do their charts have: the chart title, data sources, the site's name? Is the cha
 <td>√</td>
 <td>√</td>
 <td><a href="http://www.pewresearch.org/files/2016/02/FT_16.02.XX_EnvironmentalRegulation_2.png"><img src="http://www.pewresearch.org/files/2016/02/FT_16.02.XX_EnvironmentalRegulation_2.png" width="350" alt="Pew Research Center chart" /></a></td>
-</tr>
-<tr>
-<td><p><a href="http://www.perc.org/articles/clearing-smoke-wildfire-policy-economic-perspective">PERC</a></p>
-<p>Should tables be images or text? Images are simple to share but the text isn't selectable. Text is harder to share but can be selected -- e.g., to copy-&-paste data. (CMS: Drupal)</td>
-<td>√</td>
-<td>√</td>
-<td></td>
-<td></td>
-<td><a href="http://www.perc.org/sites/default/files/PS56-Table1.png"><img src="http://www.perc.org/sites/default/files/PS56-Table1.png" width="350" alt="PERC chart" /></a></td>
 </tr>
 <tr>
 <td><p><a href="https://www.propublica.org/article/unsafe-at-many-speeds">ProPublica</a></p>
@@ -154,3 +138,4 @@ Most New York Times charts are either interactives, <a href="http://www.nytimes.
 
 Neither CSS-ed nor SVG-ed charts are easy to embed at other sites. 
 
+<em>Prepared for <a href="http://headwaterseconomics.org/">Headwaters Economics</a>.</em>
