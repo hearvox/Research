@@ -44,18 +44,17 @@ So these 5 shortcodes:
 Would work for these existing Tableaus:
 
 ```html
-&lt;figure class='chart-responsive'&gt;
-&lt;div class='tableauPlaceholder' style='width: 750px; height: 510px;'&gt;
-&lt;object class='tableauViz' width='750' height='510' style='display:none;'&gt;
-	&lt;param name='host_url' value='https%3A%2F%2Ftableau.headwaterseconomics.org%2F' /&gt;
-	&lt;param name='embed_code_version' value='3' /&gt; 
-	&lt;param name='site_root' value='' /&gt;
-	&lt;param name='name' value='NPSVisitationHistory&#47;NPSVisitationHistory' /&gt;
-	&lt;param name='tabs' value='no' /&gt;
-	&lt;param name='toolbar' value='no' /&gt;
-	&lt;param name='showAppBanner' value='false' /&gt;
-	&lt;param name='filter' value='iframeSizedToWindow=true' /&gt;
-&lt;/object&gt;
-&lt;/div&gt;
-&lt;/figure&gt;
+<figure class='chart-responsive'>
+<div class='tableauPlaceholder' style='width: 750px; height: 510px;'>
+<object class='tableauViz' width='750' height='510' style='display:none;'>
+	<param name='host_url' value='https%3A%2F%2Ftableau.headwaterseconomics.org%2F' />
+	<param name='embed_code_version' value='3' /> 
+	<param name='site_root' value='' />
+	<param name='name' value='NPSVisitationHistory&#47;NPSVisitationHistory' />
+	<param name='tabs' value='no' />
+	<param name='toolbar' value='no' />
+	<param name='showAppBanner' value='false' />
+	<param name='filter' value='iframeSizedToWindow=true' />
+</object>
+</div>
 ```
