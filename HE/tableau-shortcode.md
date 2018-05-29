@@ -2,27 +2,27 @@
 
 | HTML element | CSS class (settable in shortcode) |
 | ------------ | -------------------------------------|
-| wrapper class | tableauPlaceholder (eg, for <div>)
-| <object> class | tableauViz
+| wrapper class | tableauPlaceholder (eg, for &lt;div&gt;)
+| &lt;object&gt; class | tableauViz |
 
-| HTML element | CSS size (settable in shortcode) |
+| Size | CSS defaults (settable in shortcode) |
 | ------------ | -------------------------------------|
 | width | 100% (so 740px, except 1000px for 'widescreen' post or 'Widescreen' template page)
-| height | 650px
+| height | 650px |
 
-Param: default value (settable in shortcode) |
+| Param | default value (settable in shortcode) |
 | ------------ | -------------------------------------|
 | embed_code_version | 3 |
-| site_root = 	'' |
-| tabs |
+
 
 | Param  | (only settable in shortcode -- no default value) |
 --------------------------------------------------
-| name | 
+| name | |
 
 | Param | fixed value (not settable in shortcode) |
 | ------------ | -------------------------------------|
-| host_url | https%3A%2F%2Ftableau.headwaterseconomics.org%2F
+| host_url | https%3A%2F%2Ftableau.headwaterseconomics.org%2F |
+| site_root | '' |
 | tabs | no |
 | toolbar | no |
 | showShareOptions | true |
@@ -45,7 +45,7 @@ So these 5 shortcodes:
 Would work for these existing Tableaus:
 
 ```html
-<figure class='chart-responsive'>
+1 <figure class='chart-responsive'>
 <div class='tableauPlaceholder' style='width: 750px; height: 510px;'>
 <object class='tableauViz' width='750' height='510' style='display:none;'>
 	<param name='host_url' value='https%3A%2F%2Ftableau.headwaterseconomics.org%2F' />
@@ -59,6 +59,7 @@ Would work for these existing Tableaus:
 </object>
 </div>
 	
+2
 <div class='tableauPlaceholder' style='width: 749px; height: 650px;'>
 <object class='tableauViz' width='749' height='650' style='display:none;'>
 	<param name='host_url' value='https%3A%2F%2Ftableau.headwaterseconomics.org%2F' />
