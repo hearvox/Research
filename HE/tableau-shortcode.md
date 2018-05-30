@@ -1,20 +1,22 @@
-
+Shortcode syntax:
+[he-tableau name="{TABLEAU-FILENAME}" height="{INTEGER}" embed="{VERS_NUM}"]Caption, source, etc.[/he-tableau]<
 
 | attr | setting | default | (note) |
 | ---- | ------- | ------- | ------ |
-| class | CSS class: wrapper  | tableauPlaceholder | (eg, for &lt;div&gt;) |
+| class | CSS class: wrapper  | tableauPlaceholder | Eg, for &lt;div&gt; |
 | obj-class | CSS class: &lt;object&gt; | tableauViz | |
-| width | chart width | 100% | (740px or 1000px 'widescreen') |
+| width | chart width | 100% | 740px or 1000px 'widescreen' |
 | height | chart height | 650px | |
 | embed | param: embed_code_version | 3 |  |
 | name | param: name | (no default value) |  |
-| | host_url | https%3A%2F%2Ftableau.headwaterseconomics.org%2F | (not settable) |
-| | site_root | '' | (not settable) |
-| | tabs | no | (not settable) |
-| | toolbar | no | (not settable) |
-| | showShareOptions | true | (not settable) |
-| | showAppBanner | false | (not settable) |
-| | filter | iframeSizedToWindow=true | (not settable) |
+| * | param: host_url | https%3A%2F%2Ftableau.headwaterseconomics.org%2F | |
+| * | param: site_root | '' | |
+| * | param: tabs | no | |
+| * | param: toolbar | no | |
+| * | param: showShareOptions | true | |
+| * | param: showAppBanner | false | |
+| * | param: filter | iframeSizedToWindow=true | |
+* (* fixed value: not settable in shortcode) *
 
 So these 5 shortcodes:
 <ol>
