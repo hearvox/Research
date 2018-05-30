@@ -1,6 +1,6 @@
 ## Shortcode syntax (proposed) ##
 ```
-[he-tableau name="{TABLEAU-FILENAME}" height="{INTEGER}" embed="{VERS_NUM}"]Chart's caption, source, etc.[/he-tableau]
+[he-tableau name="{TABLEAU-FILENAME}" height="{INTEGER}" embed="{VERS_NUM}"]Text for interactive chart's caption, source, etc.[/he-tableau]
 ```
 
 ## Shortcode attributes and default values ##
