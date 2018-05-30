@@ -6,19 +6,19 @@
 ## Shortcode attributes and default values ##
 | attr | setting | default | note |
 | ---- | ------- | ------- | ------ |
-| class | CSS class: wrapper  | tableauPlaceholder | Eg, for &lt;div&gt; |
-| obj-class | CSS class: &lt;object&gt; | tableauViz | |
-| width | chart width | 100% | 740px or 1000px 'widescreen' |
-| height | chart height | 650px | |
-| embed | param: embed_code_version | 3 |  |
-| name | param: name | (no default) |  |
-| * | param: host_url | https%3A%2F%2Ftableau.headwaterseconomics.org%2F | |
-| * | param: site_root | '' | |
-| * | param: tabs | no | |
-| * | param: toolbar | no | |
-| * | param: showShareOptions | true | |
-| * | param: showAppBanner | false | |
-| * | param: filter | iframeSizedToWindow=true | |
+| `class` | CSS class: wrapper  | `tableauPlaceholder` | Eg, for &lt;div&gt; |
+| `obj-class` | CSS class: &lt;object&gt; | `tableauViz` | |
+| `width` | chart width | `100%` | 740px or 1000px 'widescreen' |
+| `height` | chart height | `650px` | |
+| `embed` | param: embed_code_version | `3` |  |
+| `name` | param: name | _(no default)_ |  |
+| | param: host_url | https%3A%2F%2Ftableau.headwaterseconomics.org%2F | * |
+| | param: site_root | `''` | * |
+| | param: tabs | `no` | * |
+| | param: toolbar | `no` | * |
+| | param: showShareOptions | `true` | * |
+| | param: showAppBanner | `false` | * |
+| | param: filter | `iframeSizedToWindow=true` | |
 | | | _(* Fixed value: not settable in shortcode)_ |
 
 ## Shortcode examples ##
