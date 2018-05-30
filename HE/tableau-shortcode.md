@@ -12,14 +12,14 @@
 | `height` | chart height | `650px` | |
 | `embed` | param: embed_code_version | `3` |  |
 | `name` | param: name | _(no default)_ |  |
-| | param: host_url | `https%3A%2F%2Ftableau.headwaterseconomics.org%2F` | * |
+| | param: host_url | `https%3A%2F%2Ftableau.headwaterseconomics.org%2F` | <sup><a href="#fn1">1</a></sup> |
 | | param: site_root | `''` | * |
 | | param: tabs | `no` | * |
 | | param: toolbar | `no` | * |
 | | param: showShareOptions | `true` | * |
 | | param: showAppBanner | `false` | * |
 | `filter` | param: filter | `iframeSizedToWindow=true` | |
-| | | _(* Fixed value: not settable in shortcode)_ |
+| | | <span id="fn1">_(* Fixed value: not settable in shortcode)_</span> |
 
 ## Shortcode examples ##
 
