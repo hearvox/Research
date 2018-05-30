@@ -24,7 +24,7 @@ _(<span id="fn1">* Fixed value: not settable in shortcode</span>)_
 
 ## Shortcode examples ##
 
-So these 5 shortcodes:
+So, these 5 shortcodes:
 
 1. ```[he-tableau name="NPSVisitationHistory&#47;NPSVisitationHistory" height="510"]```
 2. ```[he-tableau name="MinorityRuralWest7-1-17&#47;Dashboard1"]```
@@ -35,7 +35,7 @@ So these 5 shortcodes:
 
 5. ```[he-tableau name="WhitefishTrails&#47;FlatheadTrailUse" height="857"]```
 
-Would replace these existing Tableaus:
+Would replace these existing Tableau HTML:
 
 ```html
 1. <figure class='chart-responsive'>
