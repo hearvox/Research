@@ -25,7 +25,10 @@ _(* Fixed value: not settable in shortcode)_
 
 So these 5 shortcodes:
 <ol>
-<li>```[he-tableau name="NPSVisitationHistory&#47;NPSVisitationHistory" height="510"]```</li>
+<li>```
+[he-tableau name="NPSVisitationHistory&#47;NPSVisitationHistory" height="510"]
+```
+</li>
 
 <li>```[he-tableau name="MinorityRuralWest7-1-17&#47;Dashboard1"]```</li>
 
