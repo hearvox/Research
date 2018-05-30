@@ -12,7 +12,7 @@
 | `height` | chart height | `650px` | |
 | `embed` | param: embed_code_version | `3` |  |
 | `name` | param: name | _(no default)_ |  |
-| | param: host_url | https%3A%2F%2Ftableau.headwaterseconomics.org%2F | * |
+| | param: host_url | `https%3A%2F%2Ftableau.headwaterseconomics.org%2F` | * |
 | | param: site_root | `''` | * |
 | | param: tabs | `no` | * |
 | | param: toolbar | `no` | * |
