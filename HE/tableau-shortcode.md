@@ -1,7 +1,7 @@
 Shortcode syntax:
-[he-tableau name="{TABLEAU-FILENAME}" height="{INTEGER}" embed="{VERS_NUM}"]Caption, source, etc.[/he-tableau]<
+[he-tableau name="{TABLEAU-FILENAME}" height="{INTEGER}" embed="{VERS_NUM}"]Chart's caption, source, etc.[/he-tableau]<
 
-| attr | setting | default value | (note) |
+| attr | setting | default value | note |
 | ---- | ------- | ------- | ------ |
 | class | CSS class: wrapper  | tableauPlaceholder | Eg, for &lt;div&gt; |
 | obj-class | CSS class: &lt;object&gt; | tableauViz | |
