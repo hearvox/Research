@@ -19,7 +19,7 @@
 | * | param: showShareOptions | true | |
 | * | param: showAppBanner | false | |
 | * | param: filter | iframeSizedToWindow=true | |
-_(* Fixed value: not settable in shortcode)_
+| | | _(* Fixed value: not settable in shortcode)_ |
 
 ## Shortcode examples ##
 
