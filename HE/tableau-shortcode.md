@@ -1,14 +1,14 @@
 Shortcode syntax:
 [he-tableau name="{TABLEAU-FILENAME}" height="{INTEGER}" embed="{VERS_NUM}"]Caption, source, etc.[/he-tableau]<
 
-| attr | setting | default | (note) |
+| attr | setting | default value | (note) |
 | ---- | ------- | ------- | ------ |
 | class | CSS class: wrapper  | tableauPlaceholder | Eg, for &lt;div&gt; |
 | obj-class | CSS class: &lt;object&gt; | tableauViz | |
 | width | chart width | 100% | 740px or 1000px 'widescreen' |
 | height | chart height | 650px | |
 | embed | param: embed_code_version | 3 |  |
-| name | param: name | (no default value) |  |
+| name | param: name | (no default) |  |
 | * | param: host_url | https%3A%2F%2Ftableau.headwaterseconomics.org%2F | |
 | * | param: site_root | '' | |
 | * | param: tabs | no | |
@@ -16,7 +16,7 @@ Shortcode syntax:
 | * | param: showShareOptions | true | |
 | * | param: showAppBanner | false | |
 | * | param: filter | iframeSizedToWindow=true | |
-* (* fixed value: not settable in shortcode) *
+_(* Fixed value: not settable in shortcode)_
 
 So these 5 shortcodes:
 <ol>
