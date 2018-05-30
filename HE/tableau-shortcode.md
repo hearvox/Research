@@ -1,4 +1,4 @@
-## Shortcode syntax (proposed) ##
+## Shortcode syntax (proposed) for Tableau embed ##
 ```
 [he-tableau name="{TABLEAU-FILENAME}" height="{INTEGER}" embed="{VERS_NUM}"]Text for interactive chart's caption, source, etc.[/he-tableau]
 ```
