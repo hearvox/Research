@@ -35,7 +35,7 @@ So, these 5 shortcodes:
 
 5. ```[he-tableau name="WhitefishTrails&#47;FlatheadTrailUse" height="857"]```
 
-Would replace these existing Tableau HTML:
+Would replace these existing Tableau HTML blocks:
 
 ```html
 1. <figure class='chart-responsive'>
