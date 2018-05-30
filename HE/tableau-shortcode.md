@@ -18,7 +18,8 @@
 | <a href="#fn1">*</a> | param: tabs | `no` | |
 | <a href="#fn1">*</a> | param: toolbar | `no` | |
 | <a href="#fn1">*</a> | param: showShareOptions | `true` | |
-| <a href="#fn1">*</a> | param: showAppBanner | `false` | |  
+| <a href="#fn1">*</a> | param: showAppBanner | `false` | | 
+
 _(<span id="fn1">* Fixed value: not settable in shortcode</span>)_
 
 ## Shortcode examples ##
