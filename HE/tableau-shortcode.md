@@ -100,5 +100,7 @@ Would replace these existing Tableaus:
 	<param name='filter' value='iframeSizedToWindow=true' />
 </object>
 </div>
-
 ```
+
+## Reference ##
+[Tableau: Parameters for Embed Code](https://onlinehelp.tableau.com/current/pro/desktop/en-us/embed_list.html)
