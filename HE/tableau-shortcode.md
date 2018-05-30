@@ -24,9 +24,8 @@ _(* Fixed value: not settable in shortcode)_
 ## Shortcode examples ##
 
 So these 5 shortcodes:
-<ol>
-<li>```
-[he-tableau name="NPSVisitationHistory&#47;NPSVisitationHistory" height="510"]
+```
+1. [he-tableau name="NPSVisitationHistory&#47;NPSVisitationHistory" height="510"]
 ```
 </li>
 
