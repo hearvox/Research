@@ -13,13 +13,13 @@
 | `embed` | param: embed_code_version | `3` |  |
 | `name` | param: name | _(no default)_ |  |
 | | param: host_url | `https%3A%2F%2Ftableau.headwaterseconomics.org%2F` | <sup><a href="#fn1">1</a></sup> |
-| | param: site_root | `''` | * |
-| | param: tabs | `no` | * |
-| | param: toolbar | `no` | * |
-| | param: showShareOptions | `true` | * |
-| | param: showAppBanner | `false` | * |
+| | param: site_root | `''` | <sup><a href="#fn1">1</a></sup> |
+| | param: tabs | `no` | <sup><a href="#fn1">1</a></sup> |
+| | param: toolbar | `no` | <sup><a href="#fn1">1</a></sup> |
+| | param: showShareOptions | `true` | <sup><a href="#fn1">1</a></sup> |
+| | param: showAppBanner | `false` | <sup><a href="#fn1">1</a></sup> |
 | `filter` | param: filter | `iframeSizedToWindow=true` | |
-| | | <span id="fn1">_(* Fixed value: not settable in shortcode)_</span> |
+| | | <span id="fn1">_(<sup>1</sup> Fixed value: not settable in shortcode)_</span> |
 
 ## Shortcode examples ##
 
