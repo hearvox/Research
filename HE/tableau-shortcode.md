@@ -1,7 +1,8 @@
-Shortcode syntax:
+## Shortcode syntax ##
 [he-tableau name="{TABLEAU-FILENAME}" height="{INTEGER}" embed="{VERS_NUM}"]Chart's caption, source, etc.[/he-tableau]<
 
-| attr | setting | default value | note |
+## Shortcode attributes and default values ##
+| attr | setting | default | note |
 | ---- | ------- | ------- | ------ |
 | class | CSS class: wrapper  | tableauPlaceholder | Eg, for &lt;div&gt; |
 | obj-class | CSS class: &lt;object&gt; | tableauViz | |
@@ -18,6 +19,8 @@ Shortcode syntax:
 | * | param: filter | iframeSizedToWindow=true | |
 _(* Fixed value: not settable in shortcode)_
 
+## Shortcode examples ##
+
 So these 5 shortcodes:
 <ol>
 <li>[he-tableau name="NPSVisitationHistory&#47;NPSVisitationHistory" height="510"]</li>
@@ -31,7 +34,7 @@ So these 5 shortcodes:
 <li>[he-tableau name="WhitefishTrails&#47;FlatheadTrailUse" height="857"]</li>
 </ol>
 
-Would work for these existing Tableaus:
+Would replace these existing Tableaus:
 
 ```html
 1. <figure class='chart-responsive'>
