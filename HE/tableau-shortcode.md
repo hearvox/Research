@@ -24,17 +24,15 @@ _(* Fixed value: not settable in shortcode)_
 ## Shortcode examples ##
 
 So these 5 shortcodes:
-```
-1. [he-tableau name="NPSVisitationHistory&#47;NPSVisitationHistory" height="510"]
-```
+
+1. ```[he-tableau name="NPSVisitationHistory&#47;NPSVisitationHistory" height="510"]```
 2. ```[he-tableau name="MinorityRuralWest7-1-17&#47;Dashboard1"]```
 
-3. `[he-tableau name="NonLabor2017&#47;MedicaidViz" height="490"]Source: Bureau of Economic Analysis, Regional Economic Accounts, 2015[/he-tableau]`
+3. ```[he-tableau name="NonLabor2017&#47;MedicaidViz" height="490"]Source: Bureau of Economic Analysis, Regional Economic Accounts, 2015[/he-tableau]```
 
-<li>[he-tableau name="MTHomes2-19-18&#47;MTHomesbyCounty" width="640" height="500" embed="2"]The four most populated counties--Gallatin County (Bozeman), Flathead County (Kalispell), Yellowstone County (Billings), and Missoula County (Missoula)--account for more than 50 percent of homes built since 2000. This `&lt;a href="https://headwaterseconomics.org/economic-development/local-studies/montana-home-construction-sortable-data"&gt;`interactive table`&lt;/a&gt;` sorts by county, homes built, open space lost, and other indicators.[/he-tableau]</li>
+4. ```[he-tableau name="MTHomes2-19-18&#47;MTHomesbyCounty" width="640" height="500" embed="2"]The four most populated counties--Gallatin County (Bozeman), Flathead County (Kalispell), Yellowstone County (Billings), and Missoula County (Missoula)--account for more than 50 percent of homes built since 2000. This `&lt;a href="https://headwaterseconomics.org/economic-development/local-studies/montana-home-construction-sortable-data"&gt;`interactive table`&lt;/a&gt;` sorts by county, homes built, open space lost, and other indicators.[/he-tableau]```
 
-<li>```[he-tableau name="WhitefishTrails&#47;FlatheadTrailUse" height="857"]```</li>
-</ol>
+5. ```[he-tableau name="WhitefishTrails&#47;FlatheadTrailUse" height="857"]```
 
 Would replace these existing Tableaus:
 
