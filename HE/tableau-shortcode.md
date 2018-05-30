@@ -1,29 +1,20 @@
 
 
-| HTML tag | CSS class (settable in shortcode) |
-| ------------ | -------------------------------------|
-| wrapper class | tableauPlaceholder (eg, for &lt;div&gt;)
-| &lt;object&gt; class | tableauViz |
-
-| Chart size | CSS defaults (settable in shortcode) |
-| ------------ | -------------------------------------|
-| width | 100% (740px or 1000px 'widescreen')
-| height | 650px |
-
-| Parameter | default value (settable in shortcode) |
-| ------------ | -------------------------------------|
-| embed_code_version | 3 |
-| name | (no default value) |
-
-| Parameter | fixed value (not settable in shortcode) |
-| ------------ | -------------------------------------|
-| host_url | https%3A%2F%2Ftableau.headwaterseconomics.org%2F |
-| site_root | '' |
-| tabs | no |
-| toolbar | no |
-| showShareOptions | true |
-| showAppBanner | false |
-| filter | iframeSizedToWindow=true |
+| attr | setting | default | (note) |
+| ---- | ------- | ------- | ------ |
+| class | CSS class: wrapper  | tableauPlaceholder | (eg, for &lt;div&gt;) |
+| obj-class | CSS class: &lt;object&gt; | tableauViz | |
+| width | chart width | 100% | (740px or 1000px 'widescreen') |
+| height | chart height | 650px | |
+| embed | param: embed_code_version | 3 |  |
+| name | param: name | (no default value) |  |
+| | host_url | https%3A%2F%2Ftableau.headwaterseconomics.org%2F | (not settable) |
+| | site_root | '' | (not settable) |
+| | tabs | no | (not settable) |
+| | toolbar | no | (not settable) |
+| | showShareOptions | true | (not settable) |
+| | showAppBanner | false | (not settable) |
+| | filter | iframeSizedToWindow=true | (not settable) |
 
 So these 5 shortcodes:
 <ol>
