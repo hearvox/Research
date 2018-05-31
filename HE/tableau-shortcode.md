@@ -26,8 +26,9 @@ _(<sup>&#x1F538;</sup> Fixed value: not settable in shortcode)_
 
 So, these 5 shortcodes:
 
-1. ```[he-tableau name="NPSVisitationHistory&#47;NPSVisitationHistory" height="510"]```
-2. ```[he-tableau name="MinorityRuralWest7-1-17&#47;Dashboard1"]```
+1. ```[he-tableau name="MinorityRuralWest7-1-17&#47;Dashboard1"]```
+
+2. ```[he-tableau name="NPSVisitationHistory&#47;NPSVisitationHistory" height="510"]```
 
 3. ```[he-tableau name="NonLabor2017&#47;MedicaidViz" height="490"]Source: Bureau of Economic Analysis, Regional Economic Accounts, 2015[/he-tableau]```
 
@@ -38,7 +39,18 @@ So, these 5 shortcodes:
 Would replace these existing Tableau HTML blocks:
 
 ```html
-1. <figure class='chart-responsive'>
+1. <div class='tableauPlaceholder' style='width: 749px; height: 650px;'>
+<object class='tableauViz' width='749' height='650' style='display:none;'>
+	<param name='host_url' value='https%3A%2F%2Ftableau.headwaterseconomics.org%2F' />
+	<param name='site_root' value='' />
+	<param name='name' value='MinorityRuralWest7-1-17&#47;Dashboard1' />
+	<param name='tabs' value='no' />
+	<param name='toolbar' value='no' />
+	<param name='showShareOptions' value='true' />
+</object>
+</div>
+
+2. <figure class='chart-responsive'>
 <div class='tableauPlaceholder' style='width: 750px; height: 510px;'>
 <object class='tableauViz' width='750' height='510' style='display:none;'>
 	<param name='host_url' value='https%3A%2F%2Ftableau.headwaterseconomics.org%2F' />
@@ -49,17 +61,6 @@ Would replace these existing Tableau HTML blocks:
 	<param name='toolbar' value='no' />
 	<param name='showAppBanner' value='false' />
 	<param name='filter' value='iframeSizedToWindow=true' />
-</object>
-</div>
-	
-2. <div class='tableauPlaceholder' style='width: 749px; height: 650px;'>
-<object class='tableauViz' width='749' height='650' style='display:none;'>
-	<param name='host_url' value='https%3A%2F%2Ftableau.headwaterseconomics.org%2F' />
-	<param name='site_root' value='' />
-	<param name='name' value='MinorityRuralWest7-1-17&#47;Dashboard1' />
-	<param name='tabs' value='no' />
-	<param name='toolbar' value='no' />
-	<param name='showShareOptions' value='true' />
 </object>
 </div>
 
