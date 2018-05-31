@@ -11,16 +11,16 @@
 | `width` | chart width | `100%` | 740px or 1000px 'widescreen' |
 | `embed` | param: embed_code_version | `3` |  |
 | `filter` | param: filter | `iframeSizedToWindow=true` | |
-| <span style="color:red">*</span> | CSS class: wrapper  | `tableauPlaceholder` | Eg, for &lt;div&gt; |
-| <span style="color:red">*</span>  | CSS class: &lt;object&gt; | `tableauViz` | |
-| <span style="color:red">*</span>  | param: host_url | `https%3A%2F%2Ftableau.headwaterseconomics.org%2F` | |
-| <span style="color:red">*</span>  | param: site_root | `''` | |
-| <span style="color:red">*</span>  | param: tabs | `no` | |
-| <span style="color:red">*</span>  | param: toolbar | `no` | |
-| <span style="color:red">*</span>  | param: showShareOptions | `true` | |
-| <span style="color:red">*</span>  | param: showAppBanner | `false` | | 
+| &#x1F538; | CSS class: wrapper  | `tableauPlaceholder` | Eg, for &lt;div&gt; |
+| &#x1F538;  | CSS class: &lt;object&gt; | `tableauViz` | |
+| &#x1F538;  | param: host_url | `https%3A%2F%2Ftableau.headwaterseconomics.org%2F` | |
+| &#x1F538;  | param: site_root | `''` | |
+| &#x1F538;  | param: tabs | `no` | |
+| &#x1F538;  | param: toolbar | `no` | |
+| &#x1F538;  | param: showShareOptions | `true` | |
+| &#x1F538;  | param: showAppBanner | `false` | | 
 
-_(<span style="color:red">*</span> Fixed value: not settable in shortcode</span>)_
+_&#x1F538; Fixed value: not settable in shortcode_
 
 ## Shortcode examples ##
 
