@@ -10,6 +10,7 @@
 | `height` | chart height | `650px` | |
 | `width` | chart width | `100%` | 740px or 1000px 'widescreen' |
 | `tabs` | param: tabs | `no` | |
+| `share`  | param: showShareOptions | `true` | |
 | `embed` | param: embed_code_version | `3` |  |
 | `filter` | param: filter | `iframeSizedToWindow=true` | |
 | &#x1F538; | CSS class: wrapper  | `tableauPlaceholder` | Eg, for &lt;div&gt; |
@@ -17,7 +18,6 @@
 | &#x1F538;  | param: host_url | `https%3A%2F%2Ftableau.headwaterseconomics.org%2F` | |
 | &#x1F538;  | param: site_root | `''` | |
 | &#x1F538;  | param: toolbar | `no` | |
-| &#x1F538;  | param: showShareOptions | `true` | |
 | &#x1F538;  | param: showAppBanner | `false` | | 
 
 _(<sup>&#x1F538;</sup> Fixed value: not settable in shortcode)_
