@@ -6,13 +6,13 @@
 ## Shortcode attributes and default values ##
 | attr | setting | default | note |
 | ---- | ------- | ------- | ------ |
-| `class` | CSS class: wrapper  | `tableauPlaceholder` | Eg, for &lt;div&gt; |
-| `obj-class` | CSS class: &lt;object&gt; | `tableauViz` | |
-| `width` | chart width | `100%` | 740px or 1000px 'widescreen' |
-| `height` | chart height | `650px` | |
-| `embed` | param: embed_code_version | `3` |  |
 | `name` | param: name | _(no default)_ |  |
+| `height` | chart height | `650px` | |
+| `width` | chart width | `100%` | 740px or 1000px 'widescreen' |
+| `embed` | param: embed_code_version | `3` |  |
 | `filter` | param: filter | `iframeSizedToWindow=true` | |
+| <a href="#fn1">*</a> | CSS class: wrapper  | `tableauPlaceholder` | Eg, for &lt;div&gt; |
+| <a href="#fn1">*</a> | CSS class: &lt;object&gt; | `tableauViz` | |
 | <a href="#fn1">*</a> | param: host_url | `https%3A%2F%2Ftableau.headwaterseconomics.org%2F` | |
 | <a href="#fn1">*</a> | param: site_root | `''` | |
 | <a href="#fn1">*</a> | param: tabs | `no` | |
