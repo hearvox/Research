@@ -20,7 +20,7 @@
 | &#x1F538;  | param: showShareOptions | `true` | |
 | &#x1F538;  | param: showAppBanner | `false` | | 
 
-_&#x1F538; Fixed value: not settable in shortcode_
+_(<sup>&#x1F538;</sup> Fixed value: not settable in shortcode)_
 
 ## Shortcode examples ##
 
