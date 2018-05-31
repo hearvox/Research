@@ -9,13 +9,13 @@
 | `name` | param: name | _(no default)_ |  |
 | `height` | chart height | `650px` | |
 | `width` | chart width | `100%` | 740px or 1000px 'widescreen' |
+| `tabs` | param: tabs | `no` | |
 | `embed` | param: embed_code_version | `3` |  |
 | `filter` | param: filter | `iframeSizedToWindow=true` | |
 | &#x1F538; | CSS class: wrapper  | `tableauPlaceholder` | Eg, for &lt;div&gt; |
 | &#x1F538;  | CSS class: &lt;object&gt; | `tableauViz` | |
 | &#x1F538;  | param: host_url | `https%3A%2F%2Ftableau.headwaterseconomics.org%2F` | |
 | &#x1F538;  | param: site_root | `''` | |
-| &#x1F538;  | param: tabs | `no` | |
 | &#x1F538;  | param: toolbar | `no` | |
 | &#x1F538;  | param: showShareOptions | `true` | |
 | &#x1F538;  | param: showAppBanner | `false` | | 
@@ -63,6 +63,7 @@ Would replace these existing Tableau HTML blocks:
 	<param name='filter' value='iframeSizedToWindow=true' />
 </object>
 </div>
+</figure>
 
 3. <div class='tableauPlaceholder' style='width: 744px; height: 490px;'>
 <object class='tableauViz' width='744' height='490' style='display:none;'>
@@ -72,7 +73,9 @@ Would replace these existing Tableau HTML blocks:
 	<param name='tabs' value='no' />
 	<param name='toolbar' value='no' />
 	<param name='showShareOptions' value='true' />
-</object></div><span style="font-size: small;"><em>Source: Bureau of Economic Analysis, Regional Economic Accounts, 2015</em></span>
+</object>
+</div>
+<span style="font-size: small;"><em>Source: Bureau of Economic Analysis, Regional Economic Accounts, 2015</em></span>
 
 4. <figure class="chart-stack">
 <div class="tableauPlaceholder" style="width: 640px; height: 500px;">
