@@ -13,7 +13,7 @@
 | `share`  | param: showShareOptions | `true` | |
 | `embed` | param: embed_code_version | `3` |  |
 | `filter` | param: filter | `iframeSizedToWindow=true` | |
-| `mobi` | param: filter | `yes` | |
+| `mobile` | param: filter | `yes` | |
 | &#x1F538; | CSS class: wrapper  | `tableauPlaceholder` | Eg, for &lt;div&gt; |
 | &#x1F538;  | CSS class: &lt;object&gt; | `tableauViz` | |
 | &#x1F538;  | param: host_url | `https%3A%2F%2Ftableau.headwaterseconomics.org%2F` | |
