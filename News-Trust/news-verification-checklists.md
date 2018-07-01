@@ -11,20 +11,6 @@ http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-
 1. Check out some books.
 1. Anything else?
 
-### Digital Polarization Initiative ###
-https://adpaascu.wordpress.com/category/digital-polarization-initiative/<br>
-How “News Literacy” Gets Web Misinformation Wrong<br>
-http://observer.com/2017/04/how-news-literacy-gets-web-misinformation-wrong-journalism-digital-media-fact-checking/<br>
-https://medium.com/@holden/how-media-literacy-gets-web-misinformation-wrong-45aa6323829d<br>
-* Check for previous fact-checking work
-* Go upstream to the source
-* Read laterally<br>
---Mike Caulfield (WSU)<br>
-https://directory.vancouver.wsu.edu/people/michael-caulfield<br>
-https://hapgood.us/<br>
-Web Literacy for Student Fact-Checkers<br>
-https://webliteracy.pressbooks.com/
-
 ### On the Media ###
 http://www.wnyc.org/story/breaking-news-consumer-handbook-fake-news-edition/
 <img src="https://media2.wnyc.org/i/800/800/l/80/1/OTM_Consumer_Handbook_FakeNewsEdition_800.png" />
@@ -124,7 +110,6 @@ http://www.npr.org/2016/12/11/505154631/a-finders-guide-to-facts
 * Did the writer engage with anyone who disagrees?  
 —Steve Inskeep
 
-### NPR ###
 Fake Or Real? How To Self-Check The News And Get The Facts (2016-12-05)  
 http://www.npr.org/sections/alltechconsidered/2016/12/05/503581220/fake-or-real-how-to-self-check-the-news-and-get-the-facts  
 * Pay attention to the domain and URL
@@ -269,7 +254,20 @@ https://fivethirtyeight.com/features/how-to-avoid-falling-for-a-fake-poll/
 1. Email polls@fivethirtyeight.com, we'll look into it.  
 --Harry Enten
 
-### Hapgood ###
+### Digital Polarization Initiative / Hapgood ###
+https://adpaascu.wordpress.com/category/digital-polarization-initiative/<br>
+How “News Literacy” Gets Web Misinformation Wrong<br>
+http://observer.com/2017/04/how-news-literacy-gets-web-misinformation-wrong-journalism-digital-media-fact-checking/<br>
+https://medium.com/@holden/how-media-literacy-gets-web-misinformation-wrong-45aa6323829d<br>
+* Check for previous fact-checking work
+* Go upstream to the source
+* Read laterally<br>
+--Mike Caulfield (WSU)<br>
+https://directory.vancouver.wsu.edu/people/michael-caulfield<br>
+https://hapgood.us/<br>
+Web Literacy for Student Fact-Checkers<br>
+https://webliteracy.pressbooks.com/
+
 It Can Take As Little As Thirty Seconds, Seriously  
 https://hapgood.us/2018/01/23/it-can-take-as-little-as-thirty-seconds-seriously/  
 https://www.youtube.com/watch?v=jxCi2HySzVE  
