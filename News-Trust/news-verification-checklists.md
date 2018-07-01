@@ -280,6 +280,24 @@ https://medium.com/@holden/how-media-literacy-gets-web-misinformation-wrong-45aa
 * Read laterally  
 --Mike Caulfield
 
+### The Atlantic ###
+How to Fact Check The Atlantic (2018)  
+https://www.theatlantic.com/notes/2018/01/how-to-fact-check-the-atlantic/551477/  
+1. Get familiar with the material.
+1. Break down the piece with a red pencil.  
+1. Plan interviews with the author’s sources.
+1. Start talking.
+1. Review quotes with the author’s sources.
+1. Call on a few experts.
+1. Talk everything over with the author.  
+--Yvonne Rolzhausen, senior editor, The Atlantic (January 25, 2018)
+
+<img src="https://cdn.theatlantic.com/assets/media/img/posts/2018/01/unnamed/2edfa260d.jpg" />
+
+How to Copyedit The Atlantic  
+https://www.theatlantic.com/notes/2018/06/how-to-copyedit-the-atlantic/562211/
+
+
 ### Stanford History Education Group (SHEG) ###
 Stanford researchers find students have trouble judging the credibility of information online
 https://ed.stanford.edu/news/stanford-researchers-find-students-have-trouble-judging-credibility-information-online  
@@ -355,6 +373,9 @@ https://credweb.org/cciv/r/1
 7.4 Emotionally Charged Tone
 7.5 Clickbait Headline
 7.6 Clickbait Genres
+
+Credibility Coalition  
+https://credibilitycoalition.org/
 
 <hr />
 
