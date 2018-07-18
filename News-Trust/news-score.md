@@ -1,15 +1,20 @@
 # News Score: Fact vs. Fake #
 NOTE: DRAFT
 
-A proposal to instantly analyze the veracity of a news story.
-
 Fact-checks can't stop the viral spread of fake news. A fact-check arrives long after the hoax has infested social sites.
 
-To control an epidemic outbreak, quick containment is the key. Fact-checking will always be a human process, but machines can help, instantly answering critical fact-checking questions. 
+To control an epidemic outbreak, quick containment is the key. This is a proposal to instantly analyze the veracity of a news story.
 
-With only these rapid results alone, we could reliably estimate the credibillty of a story and website. For example: Is the site listed in Editor &amp; Publisher's DataBook? Is it in PolitiFact's Fake News Almanac? What is the Page Authority of the article's external links?
+Fact-checking will always take humans and hours, but machines can rapidly answer many critical fact-checking questions.
 
-Existing API services can answer of <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">fact vs. fake</a> questions.
+Is the website listed in Editor &amp; Publisher's DataBook? Is it in PolitiFact's Fake News Almanac? Does the story link to an author page? What is the Page Authority of the external links in article? 
+
+We can grab dozens of <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">fact vs. fake</a> indicators from existing APIs. None are conclusive on their own. But if combined and properly weighted, we could generate a 
+reliable estimate of a story and website's credibillty.
+
+People could submiut a URL, then we'd return a News Score, 0–100. A social site could permit users to auto-submit a story before they share a story. Or submit all their links to get an average score for the stories they share. 
+
+Those with high avergages might make their scores public, a source of pride. Maybe the social sites themselves would publish the average of all their users, a badge of the site's social resposibility.
 
 more coming...
 
