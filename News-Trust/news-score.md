@@ -1,4 +1,4 @@
-# News Score: Fact vs. Fake #
+# CredScore: Fact vs. Fake #
 NOTE: DRAFT
 
 Fact-checks can't stop the viral spread of fake news. A fact-check arrives long after the hoax has infested social sites.
@@ -12,13 +12,13 @@ Is the website listed in Editor &amp; Publisher's DataBook? Is it in PolitiFact'
 We can grab dozens of <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">fact vs. fake</a> indicators from existing APIs. None are conclusive on their own. But if combined and properly weighted, we could generate a 
 reliable estimate of a story and website's credibillty.
 
-People could submit a URL for which we'd return a News Score, 0–100. Social sites could permit users to auto-submit a story before they share, or to submit all their links to get an average score for the stories they share. 
+People could submit a URL for which we'd return a CredScore, 0–100. Social sites could permit users to auto-submit a story before they share, or to submit all their links to get an average score for the stories they share. 
 
 Those with high avergages might make their scores public, a source of pride. Maybe the social sites themselves would publish the average of all their users, a badge of the site's social resposibility.
 
 more coming...
 
-
+info button w/ detail on score.
 
 
   
