@@ -26,7 +26,7 @@ https://www.factcheck.org/wp-content/cache/wp-rocket/www.factcheck.org/2017/07/w
 <blockquote>We’ve compiled a list of websites that we know have carried fake or satirical articles. We hope it will serve as a reference for readers who may come across unfamiliar websites. This is not an exhaustive list. We will continue to update this list with more sites as we write about them.</blockquote>
 
 ## Fake News Codex  ##
-The Fake News Codex (2017-10-02 / 197 sites)   
+The Fake News Codex (2018-05-10 / 197 sites)   
 http://www.fakenewscodex.com/
 
 <blockquote>This site was created to identify “news” sites that are fake, extremely misleading, or satirical.  There’s no shortage of similar resources purporting to list fake news sites but they are often infrequently updated, politically slanted, or difficult to use.
