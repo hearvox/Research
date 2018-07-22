@@ -1,9 +1,9 @@
 # Fake News Sites #
-
 Lists of fake news sites:
+1. 
 
 ## PolitiFact ##
-PolitiFact's Fake News Almanac (2017-11-07)  
+PolitiFact's Fake News Almanac (2017-11-07 / 325 sites) 
 https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj
 
 <blockquote>To help you better sort out fact from fiction on the Internet we created this list of websites where we've found  deliberately false or fake stories. This is by no means a complete list of offenders. Nor does it mean every post on these websites is fake. But in most cases, these sites work hard to fool readers, and you should take that into consideration if should you see a link being shared from one.</blockquote>
@@ -15,7 +15,7 @@ http://www.politifact.com/truth-o-meter/blog/2016/nov/16/lets-fight-back-against
 http://www.politifact.com/subjects/fake-news/
 
 ## OpenSources.co ## 
-OpenSources: False, Misleading, Clickbait-y, and/or Satirical “News” Sources (2017-04-28)  
+OpenSources: False, Misleading, Clickbait-y, and/or Satirical “News” Sources (2017-04-28 / 824 sites))  
 https://github.com/BigMcLargeHuge/opensources/blob/master/sources/sources.csv
 
 <blockquote>OpenSources is a curated resource for assessing online information sources, available for public use. Websites in this resource range from credible news sources to misleading and outright fake websites. Headed by Melissa Zimdars of Merrimack College, our research team is dedicated to preserving the integrity and enhancing the transparency of information on the internet.</blockquote>
@@ -27,7 +27,7 @@ https://github.com/BigMcLargeHuge/opensources
 https://github.com/BigMcLargeHuge/opensources/blob/master/sources/sources.csv
 
 ## information is beautiful ##
-Unreliable / Fake News Sites & Sources (updated: 2016-12-01, sites listed: 408)  
+Unreliable / Fake News Sites & Sources (2016-12-01 / 408 sites)  
 https://docs.google.com/spreadsheets/d/1xDDmbr54qzzG8wUrRdxQl_C1dixJSIYqQUaXVZBqsJs/edit#gid=1337422806
 
 <em>No info on mehtodology in Google sheet. No connected viz found at IIB.</em>
@@ -39,13 +39,13 @@ https://informationisbeautiful.net/visualizations/biggest-fake-news-of-2017/
 https://docs.google.com/spreadsheets/d/1gSx7wWaluSD_grN0AIb_G4F_Q_Vv8bt8m9EcCaWPx24/edit#gid=925511082
 
 ## Wikipedia ## 
-List of fake news websites
+List of fake news websites (2018-06-20 / 76 sites)
 https://en.wikipedia.org/wiki/List_of_fake_news_websites
 
 <blockquote>This is a list of fake news sites. These sites intentionally, but not necessarily solely, publish hoaxes and disinformation for purposes other than news satire. Some of these sites use homograph spoofing attacks, typosquatting and other deceptive strategies similar to those used in phishing attacks to resemble genuine news outlets.</blockquote>
 
 ## Daily Dot ##
-Here are all the ‘fake news’ sites to watch out for on Facebook (2017-10-27, 175 sites)  
+Here are all the ‘fake news’ sites to watch out for on Facebook (2017-10-27 / 175 sites)  
 https://www.dailydot.com/layer8/fake-news-sites-list-facebook/
 
 <blockquote>We’ve compiled a list of 176 sites that Zimdars and the other researchers who created the list rank as straight-up “fake news.”</blockquote>
