@@ -26,7 +26,7 @@ https://www.factcheck.org/wp-content/cache/wp-rocket/www.factcheck.org/2017/07/w
 <blockquote>We’ve compiled a list of websites that we know have carried fake or satirical articles. We hope it will serve as a reference for readers who may come across unfamiliar websites. This is not an exhaustive list. We will continue to update this list with more sites as we write about them.</blockquote>
 
 ## Fake News Codex  ##
-The Fake News Codex (2017-10-02 / 197 sites) 
+The Fake News Codex (2017-10-02 / 197 sites)   
 http://www.fakenewscodex.com/
 
 <blockquote>This site was created to identify “news” sites that are fake, extremely misleading, or satirical.  There’s no shortage of similar resources purporting to list fake news sites but they are often infrequently updated, politically slanted, or difficult to use.
@@ -38,7 +38,7 @@ http://www.fakenewscodex.com/fake-site/freedum-junkshun/
 http://www.fakenewscodex.com/fake-site/infowars/
 
 ## Fake News Watch ##
-Fake News Watch (2016-01-18 / 87 sites)
+Fake News Watch (2016-01-18 / 87 sites)  
 https://web.archive.org/web/20180213181029/http://fakenewswatch.com/
 
 <em>Three lists of website by these types: Fake/Hoax News, Satire, and Clickbait.</em>
@@ -59,7 +59,7 @@ https://informationisbeautiful.net/visualizations/biggest-fake-news-of-2017/
 https://docs.google.com/spreadsheets/d/1gSx7wWaluSD_grN0AIb_G4F_Q_Vv8bt8m9EcCaWPx24/edit#gid=925511082
 
 ## Is It Fake News? ##
-Is It Fake News? (2018-01-01)
+Is It Fake News? (2018-01-01)  
 https://isitfakenews.com/
 
 <blockquote>Thousands of website ratings are displayed from multiple, independent sources including Politifact, MetaCert, OpenSources.co, Snopes.com, Wikipedia, and CBS News. We also conduct our own research and document the source of all information.</blockquote>
