@@ -30,30 +30,32 @@ Viz and data:
 https://informationisbeautiful.net/visualizations/biggest-fake-news-of-2017/  
 https://docs.google.com/spreadsheets/d/1gSx7wWaluSD_grN0AIb_G4F_Q_Vv8bt8m9EcCaWPx24/edit#gid=925511082
 
-## ## 
+## Wikipedia ## 
 List of fake news websites
 https://en.wikipedia.org/wiki/List_of_fake_news_websites
 
-## ##
-Here are all the ‘fake news’ sites to watch out for on Facebook (2017-10-27)
+<blockquote>This is a list of fake news sites. These sites intentionally, but not necessarily solely, publish hoaxes and disinformation for purposes other than news satire. Some of these sites use homograph spoofing attacks, typosquatting and other deceptive strategies similar to those used in phishing attacks to resemble genuine news outlets.</blockquote>
+
+## Daily Dot ##
+Here are all the ‘fake news’ sites to watch out for on Facebook (2017-10-27)  
 https://www.dailydot.com/layer8/fake-news-sites-list-facebook/
 
-## ##
+## Fake News Watch ##
 Fake News Watch (2016-01-18)
 http://fakenewswatch.com/
 https://web.archive.org/web/20180213181029/http://fakenewswatch.com/
 
-## ##
-Claim Sources (2016-12-20)
+## Claim Sources ##
+Claim Sources (2016-12-20)  
 https://docs.google.com/spreadsheets/d/1S5eDzOUEByRcHSwSNmSqjQMpaKcKXmUzYT6YlRy3UOg/edit#gid=1882442466
-uses: Fake News Watch, Melissa Zimdars, The Daily Dot, Snopes Field Guide
-dup: U.S. News and World Report, New Republic, CBS News, about.com, NPR, 
 
-## ##
+Uses: Fake News Watch, Melissa Zimdars (OpenSources.co), The Daily Dot, Snopes Field Guide
+
+## FactCheck.org ##
 Websites that Post Fake and Satirical Stories (2017-10-27)
 https://www.factcheck.org/wp-content/cache/wp-rocket/www.factcheck.org/2017/07/websites-post-fake-satirical-stories//index.html_gzip
 
-## ##
+## Snopes ##
 Snopes’ Field Guide to Fake News Sites and Hoax Purveyors (2017-12-08)
 https://www.snopes.com/2016/01/14/fake-news-sites/
 Boston Tribune, Boston Leader, Baltimore Gazette, and Seattle Tribune
@@ -63,13 +65,21 @@ News Gen: React365, BreakingNews365.net, BreakingNews247.net
 Is It Fake News?
 https://isitfakenews.com/
 
+<blockquote>Thousands of website ratings are displayed from multiple, independent sources including Politifact, MetaCert, OpenSources.co, Snopes.com, Wikipedia, and CBS News. We also conduct our own research and document the source of all information.</blockquote>
+
 Examples:  
 https://isitfakenews.com/site/The+Reporterz  
 https://isitfakenews.com/site/infowars.com
 
-<blockquote>Thousands of website ratings are displayed from multiple, independent sources including Politifact, MetaCert, OpenSources.co, Snopes.com, Wikipedia, and CBS News. We also conduct our own research and document the source of all information.</blockquote>
 ## MetaCert ##
+Check This by MetaCert (Chrome extension)
 https://chrome.google.com/webstore/detail/check-this-by-metacert/felmjclcjadopolhjmlbemfekjaojfbn?hl=en
+
+<blockquote>This extension will highlight Fake, Satire, Far-left, Far-right and Alt-right news so you can make better informed choices about the type of news you consume.…
+
+MetaCert aggregates all of the data provided by trusted, unbiased Fact Checkers such as Snopes, Politifact and Buzzfeed and puts it into a single database. 
+
+MetaCert then crawls, finds and labels the social media accounts that news sites own - in a way that no other company can. This is how we have the world's biggest database of classified news to help combat disinformation online through a powerful API.</blockquote>
 
 Related:  
 https://medium.com/@Paul__Walsh/mock-this-chrome-extension-takes-aim-at-fake-news-c407320f2835  
