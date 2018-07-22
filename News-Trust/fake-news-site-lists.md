@@ -10,7 +10,9 @@ https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj
 
 Releated:  
 http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/  
-http://www.politifact.com/punditfact/article/2017/jan/27/fact-checking-fake-news-reveals-how-hard-it-kill-p/
+http://www.politifact.com/punditfact/article/2017/jan/27/fact-checking-fake-news-reveals-how-hard-it-kill-p/  
+http://www.politifact.com/truth-o-meter/blog/2016/nov/16/lets-fight-back-against-fake-news/  
+http://www.politifact.com/subjects/fake-news/
 
 ## OpenSources.co ## 
 OpenSources: False, Misleading, Clickbait-y, and/or Satirical “News” Sources (2017-04-28)  
@@ -25,10 +27,10 @@ https://github.com/BigMcLargeHuge/opensources
 https://github.com/BigMcLargeHuge/opensources/blob/master/sources/sources.csv
 
 ## information is beautiful ##
-Unreliable / Fake News Sites & Sources (2016-12-01)  
+Unreliable / Fake News Sites & Sources (updated: 2016-12-01, sites listed: 408)  
 https://docs.google.com/spreadsheets/d/1xDDmbr54qzzG8wUrRdxQl_C1dixJSIYqQUaXVZBqsJs/edit#gid=1337422806
 
-<blockquote></blockquote>
+<em>No info on mehtodology in Google sheet. No connected viz found at IIB.</em>
 
 Related:  
 https://www.informationisbeautiful.net/  
@@ -43,26 +45,26 @@ https://en.wikipedia.org/wiki/List_of_fake_news_websites
 <blockquote>This is a list of fake news sites. These sites intentionally, but not necessarily solely, publish hoaxes and disinformation for purposes other than news satire. Some of these sites use homograph spoofing attacks, typosquatting and other deceptive strategies similar to those used in phishing attacks to resemble genuine news outlets.</blockquote>
 
 ## Daily Dot ##
-Here are all the ‘fake news’ sites to watch out for on Facebook (2017-10-27)  
+Here are all the ‘fake news’ sites to watch out for on Facebook (2017-10-27, 175 sites)  
 https://www.dailydot.com/layer8/fake-news-sites-list-facebook/
 
-<blockquote></blockquote>
+<blockquote>We’ve compiled a list of 176 sites that Zimdars and the other researchers who created the list rank as straight-up “fake news.”</blockquote>
 
 ## Fake News Watch ##
 Fake News Watch (2016-01-18)
 http://fakenewswatch.com/
 https://web.archive.org/web/20180213181029/http://fakenewswatch.com/
 
-<blockquote></blockquote>
+<em>Three lists of website by these types: Fake/Hoax News, Satire, and Clickbait.</em>
 
 ## Claim Sources ##
-Claim Sources (2016-12-20)  
+Claim Sources (2016-12-20, 121 sites)  
 https://docs.google.com/spreadsheets/d/1S5eDzOUEByRcHSwSNmSqjQMpaKcKXmUzYT6YlRy3UOg/edit#gid=1882442466
 
-<em>Uses: Fake News Watch, Melissa Zimdars (OpenSources.co), The Daily Dot, Snopes Field Guide</em>
+<em>Uses: Fake News Watch, Melissa Zimdars (OpenSources.co), The Daily Dot, Snopes Field Guide.</em>
 
 ## FactCheck.org ##
-Websites that Post Fake and Satirical Stories (2017-10-27)
+Websites that Post Fake and Satirical Stories (2017-10-27, 175 sites)
 https://www.factcheck.org/wp-content/cache/wp-rocket/www.factcheck.org/2017/07/websites-post-fake-satirical-stories//index.html_gzip
 
 <blockquote></blockquote>
@@ -70,16 +72,32 @@ https://www.factcheck.org/wp-content/cache/wp-rocket/www.factcheck.org/2017/07/w
 Snopes’ Field Guide to Fake News Sites and Hoax Purveyors (2017-12-08)
 https://www.snopes.com/2016/01/14/fake-news-sites/
 
-<blockquote></blockquote>
+<blockquote>Snopes.com's updated guide to the internet's clickbaiting, news-faking, social media exploiting dark side.…
+
+So long as social media allows for the rapid spread of information, manipulative entities will seek to cash in on the rapid spread of misinformation. Perhaps the most egregious of the many nonsense peddlers on social media are fake news sites, so here we offer a guide to several of the most frequent (and unapologetic) hoax purveyors cluttering up newsfeeds everywhere.</blockquote>
+
+## Fake News Codex  ##
+The Fake News Codex (2018) 
+http://www.fakenewscodex.com/
+
+<blockquote>This site was created to identify “news” sites that are fake, extremely misleading, or satirical.  There’s no shortage of similar resources purporting to list fake news sites but they are often infrequently updated, politically slanted, or difficult to use.
+
+The Fake News Codex does not include sites that merely have a clear political or ideological bias – Daily Kos and Breitbart will not appear here.
+
+We do include sites that are not necessarily intended to mislead (such as The Onion and its legion of imitators), but that can be misunderstood by naive readers.  These are marked with the “satire” tag.</blockquote>
+
+Listing examples:   
+http://www.fakenewscodex.com/fake-site/freedum-junkshun/  
+http://www.fakenewscodex.com/fake-site/infowars/
 
 ## Is It Fake News? ##
-Is It Fake News?
+Is It Fake News? (2018)
 https://isitfakenews.com/
 
 <blockquote>Thousands of website ratings are displayed from multiple, independent sources including Politifact, MetaCert, OpenSources.co, Snopes.com, Wikipedia, and CBS News. We also conduct our own research and document the source of all information.</blockquote>
 
 Examples:  
-https://isitfakenews.com/site/The+Reporterz  
+https://isitfakenews.com/search/Your+News+Wire
 https://isitfakenews.com/site/infowars.com
 
 ## MetaCert ##
@@ -95,13 +113,4 @@ MetaCert then crawls, finds and labels the social media accounts that news sites
 Related:  
 https://medium.com/@Paul__Walsh/mock-this-chrome-extension-takes-aim-at-fake-news-c407320f2835  
 https://metacert.com/
-
-## ##
-Fake News Codex
-
-<blockquote></blockquote>
-
-Listing examples:
-http://www.fakenewscodex.com/fake-site/freedum-junkshun/
-http://www.fakenewscodex.com/fake-site/infowars/
 
