@@ -1,4 +1,27 @@
 # News verification checklists #
+<ol>
+	<li>The Atlantic</li>
+	<li>CJR</li>
+	<li>BBC</li>
+	<li>Buzzfeed</li>
+	<li>Content Credibility Indicators Vocabulary (CCIV)</li>
+	<li>Digital Polarization Initiative / Hapgood</li>
+	<li>FiveThirtyEight</li>
+	<li>Facebook</li>
+	<li>FactCheck.org</li>
+	<li>First Draft News</li>
+	<li>IFLA</li>
+	<li>The News Literacy Project</li>
+	<li>NPR</li>
+	<li>NY Times</li>
+	<li>On the Media</li>
+	<li>OpenSources</li>
+	<li>Politfact</li>
+	<li>Stanford History Education Group (SHEG)</li>
+	<li>U of FL College of Journalism</li>
+	<li>USA Today</li>
+   <li>The Verge</li>
+</ol>
 
 ## The Atlantic ##
 How to Fact Check The Atlantic (2018)  
