@@ -42,7 +42,8 @@ https://www.theatlantic.com/notes/2018/06/how-to-copyedit-the-atlantic/562211/
 
 ## BBC ##
 How to spot a fake US election claim (2016-11-02)  
-http://www.bbc.com/news/world-us-canada-37848350  
+http://www.bbc.com/news/world-us-canada-37848350
+
 How to report fake news to social media (2016-11-22)  
 http://www.bbc.com/news/38053324?ocid=socialflow_facebook&ns_mchannel=social&ns_campaign=bbcnews&ns_source=facebook  
 Things to ask yourself before you share a claim  
@@ -51,7 +52,7 @@ Things to ask yourself before you share a claim
 * Can I point to where this happened on a map?
 * Has this been reported anywhere else?
 * Is there more than one piece of evidence for this claim?
-* Could this be something else?
+* Could this be something else?  
 —Alex Murray, Social News and UGC Hub, BBC News
 
 ## Buzzfeed ##
