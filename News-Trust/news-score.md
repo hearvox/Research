@@ -1,9 +1,9 @@
 # CredScore: Fact vs. Fake #
 NOTE: DRAFT
 
-Fact-checks can't stop the viral spread of fake news. A fact-check arrives long after the hoax has infested social sites.
+Fact-checks happen too slow to stop the viral spread of fake news. The fact-check will always arrive long after the hoax has infested social sites.
 
-To control an epidemic outbreak, quick containment is the key. This is a proposal to instantly analyze the veracity of a news story.
+Quick containment control is what controls an epidemic outbreak. This is a proposal to instantly analyze the veracity of a news story.
 
 Fact-checking will always take humans and hours, but machines can rapidly answer many critical fact-checking questions.
 
