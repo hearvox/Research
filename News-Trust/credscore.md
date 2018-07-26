@@ -61,6 +61,6 @@ Maybe this is the century we finally have the tools to fight the fake news infes
 ## CredScore Resources ##
 <ul>
 <li><a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">News verification checklists</a></li>
-<li><<a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">Fake News site lists</a></li>
-<li><<a href="https://hearingvoices.com/tools/credscore/">CredScore Page and Site checkers</a></li>
+<li><a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">Fake News site lists</a></li>
+<li><a href="https://hearingvoices.com/tools/credscore/">CredScore API tests</a></li>
 <ul>
