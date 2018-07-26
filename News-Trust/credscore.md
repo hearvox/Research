@@ -17,47 +17,40 @@ Initial tests are already yeilding statically significant differences between fa
 
 Some indicators would be costly (a11y) or even impossibilie (year online) for fake news sites to fight. CredScore would build upon itself: More URLs means more history of a site's past CredScores. This becomes another indicator, for that site's stories and for story links to and from other sites.
 
+And CredScore would continually auto-update and grow, chasing down all the connections of a fake-news sites, domains registered to the same owner, or with the same Google Ad or Analayyics IDs, or redirects — as these sites are constantly being taken down and replaced as the scams are detected. 
+
 ## Showing our hand ##
-Best would be to make this project open source, maintianed by a community not a company. Transparency would be key: People need to trust us if their to trust our credibility estimates. CredScores would come with an info icon listing the factors in the score's calculations. Our methodology would be detailed, published, and open for review. 
+This should be an open-source project, maintained by a community not a company. Transparency would be key: People need to trust us if their to trust our credibility estimates. CredScores would come with an info icon listing the factors in the score's calculations. Our methodology would be detailed, published, and open for review. 
 
 ## It ain't the meat, it's the motion ##
 Bots can infect social sites with fake news but hoaxes go viral only with human help. CredScore attacks fake news via people, controlling its spread by dampening the network effect, until fact-checks and common sense take over.
 
-I've been testing news and fake-news sites for dozens of indicators to findd those that best distinguish between the two. I'll post those results soon. I also have a 
-
-
-## Story checks ##
-* Page authority
-* Quality of links in the article
-* Warnings, e.g., ALL CAPS or "!!!" in headlines
-* Author page and link to Google search
-* Perspective
-* URLscan.io
-* Plagiarism
-* Sentiment Analysis
-* Date of article
+Below are a few of the machine-accessible indicators and API services that will enable us to distinguish between news and fake-news.
 
 ## Site checks ##
-* Check against OpenSources list of “Not Credible” sites
-* Site ranking (World and USA)
-* Date domain registered
-* Domain authority
-* Site security
-* Google PageRank
-* E&P database
-* BuzzSumo
-* URLscan.io
-* Alexa
-* Whois (DomainBigData)
-* Subdomains (FindSubDomains)
-* Analytics/Adsense IDs (SpyOnWeb)
+* Analytics/AdSense IDs (<a href="http://spyonweb.com/">SpyOnWeb</a>)
+* Date domain registered (<a href="https://domainbigdata.com/">DomainBigData</a>)
+* Domain authority (<a href="https://moz.com/researchtools/ose/"></a>)
+* Lists: Legitimate publisher (<a href="http://www.lionpublishers.com/members/list/">LION</a>, <a href="https://journalists.org/">ONA</a>, etc.)
+* Lists: Fake-news site (<a href="http://www.opensources.co/">OpenSources.co</a>, <a href="https://isitfakenews.com/">Is It Fake News?</a>, etc.)
+* Ranking (<a href="https://www.alexa.com/siteinfo/">Alexa</a>)
+* Page rank (<a href="https://pr.domaineye.com/pr/">Googler PageRank</a>)
+* Security (<a href="https://securityheaders.com/">Security Headers</a>)
+* Social shares (<a href="https://app.buzzsumo.com/research/most-shared">BuzzSumo</a>)
+* Subdomains (<a href="https://findsubdomains.com/">FindSubDomains</a>)
+* Technologies (a href="https://builtwith.com">BuiltWith</a)
+* Whois (<a href="http://whois.domaintools.com/propornot.com">DomainTools</a>)
+
+## Story checks ##
+* Links quality (and Page authority) (<a href="https://analytics.moz.com/">Moz Link Explorer</a>)
+* Content qulaity (<a href="https://www.webpagefx.com/tools/read-able/">WebpageFX</a>)
+* Plagiarism (<a href="hhttps://www.copyscape.com/">Copyscape</a>)
+* Sentiment and syntax (<a href="http://saifmohammad.com/WebPages/NRC-Canada-Sentiment.htm">Sentiment Analysis System for Tweets</a>)
+* News article and author meta (<a href="https://schema.org/NewsArticle">Schema.org</a>)
 
 ## Author checks ##
-* Twitter handle
-* Email (LinkedIn)
-* Facbook (IntelTechniques)
-* ClaimReview (schema.org)
-
+* Twitter bots (<a href="https://botometer.iuni.iu.edu/">Botometer</a>)
+* Facbook check (<a href="https://inteltechniques.com/menu.html">IntelTechniques</a>)
 
 Fakes news is not a new problem. The centuries-old saying, "A lie can travel halfway around the world before the truth can get its boots on," <a href="https://quoteinvestigator.com/2014/07/13/truth/">has its roots</a> in the 1700s:
 <blockquote>As the vilest Writer has his Readers, so the greatest Liar has his Believers; and it often happens, that if a Lie be believ’d only for an Hour, it has done its Work, and there is no farther occasion for it. Falsehood flies, and the Truth comes limping after it; so that when Men come to be undeceiv’d, it is too late; the Jest is over, and the Tale has had its Effect.<br>
@@ -65,3 +58,9 @@ Fakes news is not a new problem. The centuries-old saying, "A lie can travel hal
   
 Maybe this is the century we finally have the tools to fight the fake news infestation.
 
+## CredScore Resources ##
+<ul>
+<li><a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">News verification checklists</a></li>
+<li><<a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">Fake News site lists</a></li>
+<li><<a href="https://hearingvoices.com/tools/credscore/">CredScore Page and Site checkers</a></li>
+<ul>
