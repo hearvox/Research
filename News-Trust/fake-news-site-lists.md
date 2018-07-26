@@ -1,4 +1,4 @@
-# Fake News Sites #
+# Fake News site lists#
 Lists of fake news sites:
 <ol>
   <li>Daily Dot</li>
