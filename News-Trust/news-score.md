@@ -1,16 +1,22 @@
 # CredScore: Fact vs. Fake #
 NOTE: DRAFT
 
-Fact-checks happen too slow to stop the viral spread of fake news. The fact-check will always arrive long after the hoax has infested social sites.
+Fact-checks can't stop fake news. A fact-check will always arrive hours or days after the hoax virally spread through social sites.
 
-Quick containment control is what controls an epidemic outbreak. This is a proposal to instantly analyze the veracity of a news story.
+So you do you control an epidemic outbreak? You act quickly to contain it. From just a news story's URL, computers can do enough <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">fact-checking steps</a> to instantly and reliably estimate its credibility.
 
-Fact-checking will always take humans and hours, but machines can rapidly answer many critical fact-checking questions.
+Simple checks like: Is the website in the <a href="http://www.editorandpublisher.com/databook/data/?djoPage=search_details&djoPid=25874">Editor &amp; Publisher DataBook</a<? Or is it in <a href="https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj">PolitiFact's Fake News Almanac</a>, the <a hrwef="http://www.fakenewscodex.com/">Fake News Codex</a>, or any curated <a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">fake new site list</a>? 
+  
+No one indictator will be conclusive. Instead dozens of weighted factors will generate a CredScore. Content checks for plagiarism and sentiment analysis. Tech checks for HTML and security standards. Network checks for link quality and page authority.  
 
-Is the website listed in Editor &amp; Publisher's DataBook? Is it in PolitiFact's Fake News Almanac? Does the story link to an author page? What is the Page Authority of the external links in article? 
+## The Cred Badge of Courage ##
+If a social site lets users auto-submit a shared link, they'd get its CredScore before they posted — which, if low, they may not do at all. Users could also submit links for all their social shares to get their average CredScore — whihc, if high, they could display their number as a badge of cred honor.
 
-We can grab dozens of <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">fact vs. fake</a> indicators from existing APIs. None are conclusive on their own. But if combined and properly weighted, we could generate a 
-reliable estimate of a story and website's credibillty.
+## You can run, but you can't hide ##
+Initial tests are already yeilding statically significant differences between fact vs. fake news sites, e.g., the year a site went online, the percentage of complex words in an article, and the number of its accessibility errors.
+
+
+
 
 People could submit a URL for which we'd return a CredScore, 0–100. Social sites could permit users to auto-submit a story before they share, or to submit all their links to get an average score for the stories they share. 
 
@@ -19,6 +25,8 @@ Those with high avergages might make their scores public, a source of pride. May
 more coming...
 
 info button w/ detail on score.
+
+## It ain't the meat, it's the motion ##
 
 
   
