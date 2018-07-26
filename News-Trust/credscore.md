@@ -1,6 +1,4 @@
 # CredScore: Fact vs. Fake #
-NOTE: DRAFT
-
 Fact-checks can't stop fake news. The fact-checks arrives long after a viral hoax has already infested social sites.
 
 To contain an epidemic outbreak you must act quickly. That's the goal of this project. Using just the URL, computers can instantly do enough <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">fact-checking steps</a> to reliably estimate a news story's credibility. 
@@ -30,11 +28,11 @@ Below are a few of the machine-accessible indicators and API services that will 
 ## Site checks ##
 * Analytics/AdSense IDs (<a href="http://spyonweb.com/">SpyOnWeb</a>)
 * Date domain registered (<a href="https://domainbigdata.com/">DomainBigData</a>)
-* Domain authority (<a href="https://moz.com/researchtools/ose/"></a>)
+* Domain authority (<a href="https://moz.com/researchtools/ose/">Moz Open Site Explorer</a>)
 * Lists: Legitimate publisher (<a href="http://www.lionpublishers.com/members/list/">LION</a>, <a href="https://journalists.org/">ONA</a>, etc.)
 * Lists: Fake-news site (<a href="http://www.opensources.co/">OpenSources.co</a>, <a href="https://isitfakenews.com/">Is It Fake News?</a>, etc.)
 * Ranking (<a href="https://www.alexa.com/siteinfo/">Alexa</a>)
-* Page rank (<a href="https://pr.domaineye.com/pr/">Googler PageRank</a>)
+* Page rank (<a href="https://pr.domaineye.com/pr/">Google PageRank</a>)
 * Security (<a href="https://securityheaders.com/">Security Headers</a>)
 * Social shares (<a href="https://app.buzzsumo.com/research/most-shared">BuzzSumo</a>)
 * Subdomains (<a href="https://findsubdomains.com/">FindSubDomains</a>)
@@ -42,15 +40,15 @@ Below are a few of the machine-accessible indicators and API services that will 
 * Whois (<a href="http://whois.domaintools.com/propornot.com">DomainTools</a>)
 
 ## Story checks ##
-* Links quality (and Page authority) (<a href="https://analytics.moz.com/">Moz Link Explorer</a>)
-* Content qulaity (<a href="https://www.webpagefx.com/tools/read-able/">WebpageFX</a>)
-* Plagiarism (<a href="hhttps://www.copyscape.com/">Copyscape</a>)
+* Links quality/Page authority (<a href="https://analytics.moz.com/">Moz Link Explorer</a>)
+* Content quality (<a href="https://www.webpagefx.com/tools/read-able/">WebpageFX</a>)
+* Plagiarism (<a href="https://www.copyscape.com/">Copyscape</a>)
 * Sentiment and syntax (<a href="http://saifmohammad.com/WebPages/NRC-Canada-Sentiment.htm">Sentiment Analysis System for Tweets</a>)
 * News article and author meta (<a href="https://schema.org/NewsArticle">Schema.org</a>)
 
 ## Author checks ##
 * Twitter bots (<a href="https://botometer.iuni.iu.edu/">Botometer</a>)
-* Facbook check (<a href="https://inteltechniques.com/menu.html">IntelTechniques</a>)
+* Facebook user data (<a href="https://inteltechniques.com/menu.html">IntelTechniques</a>)
 
 Fakes news is not a new problem. The centuries-old saying, "A lie can travel halfway around the world before the truth can get its boots on," <a href="https://quoteinvestigator.com/2014/07/13/truth/">has its roots</a> in the 1700s:
 <blockquote>As the vilest Writer has his Readers, so the greatest Liar has his Believers; and it often happens, that if a Lie be believ’d only for an Hour, it has done its Work, and there is no farther occasion for it. Falsehood flies, and the Truth comes limping after it; so that when Men come to be undeceiv’d, it is too late; the Jest is over, and the Tale has had its Effect.<br>
