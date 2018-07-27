@@ -33,22 +33,25 @@ Below are a few of the machine-accessible indicators and API services that will 
 * Lists: Fake-news site (<a href="http://www.opensources.co/">OpenSources.co</a>, <a href="https://isitfakenews.com/">Is It Fake News?</a>, etc.)
 * Ranking (<a href="https://www.alexa.com/siteinfo/">Alexa</a>)
 * Page rank (<a href="https://pr.domaineye.com/pr/">Google PageRank</a>)
-* Security (<a href="https://securityheaders.com/">Security Headers</a>)
+* Security (<a href="https://sitecheck.sucuri.net/">Sucuri</a>)
 * Social shares (<a href="https://app.buzzsumo.com/research/most-shared">BuzzSumo</a>)
 * Subdomains (<a href="https://findsubdomains.com/">FindSubDomains</a>)
 * Technologies (a href="https://builtwith.com">BuiltWith</a)
 * Whois (<a href="http://whois.domaintools.com/propornot.com">DomainTools</a>)
 
 ### Story checks ###
-* Links quality/Page authority (<a href="https://analytics.moz.com/">Moz Link Explorer</a>)
+* Accessibility (<a href="https://wave.webaim.org/">WAVE Accessibility Evaluation</a>)
 * Content quality (<a href="https://www.webpagefx.com/tools/read-able/">WebpageFX</a>)
-* Plagiarism (<a href="https://www.copyscape.com/">Copyscape</a>)
-* Sentiment and syntax (<a href="http://saifmohammad.com/WebPages/NRC-Canada-Sentiment.htm">Sentiment Analysis System for Tweets</a>)
+* Links quality/Page authority (<a href="https://analytics.moz.com/">Moz Link Explorer</a>)
 * News article and author meta (<a href="https://schema.org/NewsArticle">Schema.org</a>)
+* Plagiarism (<a href="https://www.copyscape.com/">Copyscape</a>)
+* Security (<a href="https://securityheaders.com/">Security Headers</a>)
+* Sentiment and syntax (<a href="http://saifmohammad.com/WebPages/NRC-Canada-Sentiment.htm">Sentiment Analysis System for Tweets</a>)
+* Web stanadards (<a href="https://validator.w3.org/">W3C Markup Validation</a>)
 
 ### Author checks ###
-* Twitter bots (<a href="https://botometer.iuni.iu.edu/">Botometer</a>)
 * Facebook user data (<a href="https://inteltechniques.com/menu.html">IntelTechniques</a>)
+* Twitter bots (<a href="https://botometer.iuni.iu.edu/">Botometer</a>)
 
 ## Swatting falsehood flies ##
 Fakes news is not a new problem. The centuries-old saying, "A lie can travel halfway around the world before the truth can get its boots on," <a href="https://quoteinvestigator.com/2014/07/13/truth/">has its roots</a> in the 1700s:
