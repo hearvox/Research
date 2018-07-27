@@ -13,7 +13,7 @@ If a social site let users auto-submit a link before they post, they might not p
 ### You can run, but you can't hide ###
 Initial tests are already yeilding statically significant differences between fact vs. fake news sites, e.g., the year a site went online, the percentage of complex words in an article, and the number of its accessibility errors.
 
-Some indicators would be costly (a11y) or even impossibilie (year online) for fake news sites to fight. CredScore would build upon itself: More URLs means more history of a site's past CredScores. This becomes another indicator, for that site's stories and for story links to and from other sites.
+Some indicators would be expensive (a11y) or even impossibilie (year online) for fake news sites to fight. CredScore would build upon itself: More URLs means more history of a site's past CredScores. This becomes another indicator, for that site's stories and for story links to and from other sites.
 
 And CredScore would continually auto-update and grow, chasing down all the connections of a fake-news sites, domains registered to the same owner, or with the same Google Ad or Analayyics IDs, or redirects — as these sites are constantly being taken down and replaced as the scams are detected. 
 
