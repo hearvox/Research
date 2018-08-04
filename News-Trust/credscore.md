@@ -3,7 +3,7 @@ Fact-checks can't stop fake news. The fact-checks arrives long after a viral hoa
 
 To contain an epidemic outbreak you must act quickly. That's the goal of this project. Using just the URL, computers can instantly do enough <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">fact-checking steps</a> to reliably estimate a news story's credibility. 
 
-Simple checks like: Is the website in the <a href="http://www.editorandpublisher.com/databook/data/?djoPage=search_details&djoPid=25874">Editor &amp; Publisher DataBook</a<? Or is it in <a href="https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj">PolitiFact's Fake News Almanac</a>, the <a hrwef="http://www.fakenewscodex.com/">Fake News Codex</a>, or any curated <a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">fake new site list</a>? 
+Simple checks like: Is the website in the <a href="http://www.editorandpublisher.com/databook/data/?djoPage=search_details&djoPid=25874">Editor &amp; Publisher DataBook</a>? Or is it in <a href="https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj">PolitiFact's Fake News Almanac</a>, the <a hrwef="http://www.fakenewscodex.com/">Fake News Codex</a>, or any curated <a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">fake new site list</a>? 
   
 All the indicators will be pulled from existing API services. No one indictator will be conclusive. Dozens of weighted factors will go into a CredScore. Content checks for plagiarism and sentiment analysis. Tech checks for HTML and security standards. Network checks for link quality and page authority.  
 
