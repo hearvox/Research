@@ -13,7 +13,7 @@ This page links to lists of fake news sites published by:
   <li>Wikipedia</li>
 </ol>
 
-(Also see <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">News verification checklists">, a compilation of fact-checking steps collected from 20+ publishers.)
+(Also see the <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">News verification checklists</a> compilation of fact-checking steps collected from 20+ publishers.)
 <hr>
 
 ## Daily Dot ##
