@@ -1,5 +1,5 @@
-# Fake News site lists#
-This page compiles links to lists fake news sites published by:
+# Fake News site lists #
+This page links to lists of fake news sites published by:
 <ol>
   <li>Daily Dot</li>
   <li>Fake News Codex</li>
