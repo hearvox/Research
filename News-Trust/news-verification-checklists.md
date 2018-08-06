@@ -24,7 +24,7 @@ This page compiles lists of fact-checking steps published by:
    <li>The Verge</li>
 </ol>
 
-(Also see the <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">Fake News site lists</a> compilation.)
+(Also see the <a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">Fake News site lists</a> compilation.)
 
 <hr>
 
