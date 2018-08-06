@@ -70,6 +70,5 @@ Maybe this is the century we finally have the tools to fight the fake news infes
 <li><a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">News verification checklists</a></li>
 <li><a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">Fake News site lists</a></li>
 <li><a href="https://hearingvoices.com/tools/credscore/">CredScore API tests</a></li>
-<li><a href="https://fact.pubmedia.us/">Fact-check Feed</a> (recent articles by U.S. fact-checking sites)</li>
-    
+<li><a href="https://fact.pubmedia.us/">Fact-check Feed</a></li>
 </ul>
