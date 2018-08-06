@@ -5,11 +5,11 @@
 
 Many <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">fact-checking steps</a> could be computer-assisted. The results, combined and weighted, could quickly generate a CredScore, 0–100, from fake to fact. 
 
-Simple site checks like: Is the website in the <a href="http://www.editorandpublisher.com/databook/data/?djoPage=search_details&djoPid=25874">Editor &amp; Publisher DataBook</a> and the <a href="https://news.google.com/">Google News Index</a>? Or is it in <a href="https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj">PolitiFact's Fake News Almanac</a>, the <a hrwef="http://www.fakenewscodex.com/">Fake News Codex</a>, or other curated <a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">fake news site list</a>?
+Simple site checks like: Is the website in the <a href="http://www.editorandpublisher.com/databook/data/?djoPage=search_details&djoPid=25874">Editor &amp; Publisher DataBook</a> and the <a href="https://news.google.com/">Google News Index</a>? Or is it in <a href="https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj">PolitiFact's Fake News Almanac</a>, the <a href="http://www.fakenewscodex.com/">Fake News Codex</a>, or other curated <a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">fake news site list</a>?
 
 Story checks examine the article (and its links) for plagiarism and sentiment analysis (e.g., CAPS or !!!). Tech checks test HTML and security standards and page authority. All pulled from existing API services
   
-No one indictator is conclusive. Scores of weighted factors go into a reliable CredScore.
+No one indicator is conclusive. Scores of weighted factors go into a reliable CredScore.
 
 ## The Cred Badge of Courage ##
 People submit an URL then get a score, and the ability to submit issues and comments on the results. (Perhaps a tool like <a href="http://filterbubbler.org/">FilterBubbler</a> can help crowdsource the best weightings.)
@@ -17,11 +17,11 @@ People submit an URL then get a score, and the ability to submit issues and comm
 If a social site let people auto-submit a link before they post, some might stop posting links with low CredScores. If people submitted all their shared links, they'd get their average CredScore. People might want to display that number publicly as a badge of cred honor.
 
 ### You can run, but you can't hide ###
-Initial tests already reveal potentially usable differences between fake and fact. Fake site domains are newer (an average of three years). Fake stories have a lower average grade level, fewer complex words, and more accessibillity errors.  
+Initial tests already reveal potentially usable differences between fake and fact. Fake site domains are newer (an average of three years). Fake stories have a lower average grade level, fewer complex words, and more accessibility errors.  
 
-When fake news tries to game the algorithm, they'll find many indicators expensive (a11y) and difficult (year online) to fight. Meanwhile, With each submitted URL, CredScore builds a better history of a site's trustworthiness. Soon CredScore history becomes another indicator. 
+When fake news tries to game the algorithm, they'll find many indicators expensive (a11y) and difficult (year online) to fight. Meanwhile, with each submitted URL, CredScore builds a better history of a site's trustworthiness. Soon CredScore history becomes another indicator. 
 
-CredScore can continually auto-update and grow, chasing down all a fake-news site's connections: domains registered to the same owner, or using the same Google Ad or Analayyics IDs, also redirects — these sites go dark often, as the scams are detected, then pop up in a new doamin. 
+CredScore can continually auto-update and grow, chasing down all a fake-news site's connections: domains registered to the same owner, or using the same Google Ad or Analytics IDs, also redirects — these sites go dark often, as the scams are detected, then pop up in a new domain. 
 
 ### Showing our hand ###
 This should be an open-source project, maintained by a community not a company. Transparency is key: People need to trust CredScore to trust its credibility estimates. Each CredScore would have a clickable info icon to list the main factors in the score's calculations. The methodology must be detailed, published, and open for review and revision. 
@@ -53,7 +53,7 @@ Below are a few of the machine-accessible indicators (and API services) that wil
 * Plagiarism (<a href="https://www.copyscape.com/">Copyscape</a>)
 * Security (<a href="https://securityheaders.com/">Security Headers</a>)
 * Sentiment and syntax (<a href="http://saifmohammad.com/WebPages/NRC-Canada-Sentiment.htm">Sentiment Analysis System for Tweets</a>)
-* Web stanadards (<a href="https://validator.w3.org/">W3C Markup Validation</a>)
+* Web standards (<a href="https://validator.w3.org/">W3C Markup Validation</a>)
 
 ### Author checks ###
 * Facebook user data (<a href="https://inteltechniques.com/menu.html">IntelTechniques</a>)
@@ -71,10 +71,4 @@ Maybe this is the century we finally have the tools to fight the fake news infes
 <li><a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">News verification checklists</a></li>
 <li><a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">Fake News site lists</a></li>
 <li><a href="https://hearingvoices.com/tools/credscore/">CredScore API tests</a></li>
-<ul>
-
-<!--
-
-To contain an epidemic outbreak you must act quickly. That's the goal of this project. 
-
--->
+</ul>
