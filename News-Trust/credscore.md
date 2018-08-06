@@ -1,5 +1,7 @@
-# CredScore: Fact vs. Fake #
-Fact-checks can't stop fake news. The fact-checks arrives long after a viral hoax has already infested social sites.
+# CredScore: Fighting the Fake News Infestation #
+* Fact-checks will always arrive too slowly to stop the viral spread of fake news.
+* But many steps in the fact-check process can happen automatically.
+* Se can instantly produce a reliavble estimate of a story's credibility using just itrs URL.
 
 To contain an epidemic outbreak you must act quickly. That's the goal of this project. Using just the URL, computers can instantly do enough <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">fact-checking steps</a> to reliably estimate a news story's credibility. 
 
