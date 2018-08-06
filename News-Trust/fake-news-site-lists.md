@@ -1,5 +1,5 @@
 # Fake News site lists#
-Lists of fake news sites:
+This page compiles links to lists fake news sites published by:
 <ol>
   <li>Daily Dot</li>
   <li>Fake News Codex</li>
@@ -12,6 +12,9 @@ Lists of fake news sites:
   <li>Snopes</li>
   <li>Wikipedia</li>
 </ol>
+
+(Also see <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">News verification checklists">, a compilation of fact-checking steps collected from 20+ publishers.)
+<hr>
 
 ## Daily Dot ##
 Here are all the ‘fake news’ sites to watch out for on Facebook (2017-10-27 / 175 sites)  
