@@ -1,4 +1,5 @@
 # News verification checklists #
+This page compiles lists of fact-checking steps published by:
 <ol>
 	<li>The Atlantic</li>
 	<li>CJR</li>
