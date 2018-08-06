@@ -29,7 +29,7 @@ This should be an open-source project, maintained by a community not a company. 
 ### It ain't the meat, it's the motion ###
 Bots can infect social sites with fake news but hoaxes go viral only with human help. CredScore attacks fake news via people, controlling its spread by dampening the network effect, until fact-checks and common sense take over. To contain an epidemic outbreak you act quickly. That's the goal of this project.
 
-Below are a few of the machine-accessible indicators (and API services) that will enable us to distinguish between news and fake-news.
+Below are a few of the machine-readable indicators (and API services) that will enable us to distinguish between news and fake-news.
 
 ### Site checks ###
 * Analytics/AdSense IDs (<a href="http://spyonweb.com/">SpyOnWeb</a>)
@@ -38,7 +38,6 @@ Below are a few of the machine-accessible indicators (and API services) that wil
 * Lists: Legitimate publisher (<a href="http://www.lionpublishers.com/members/list/">LION</a>, <a href="https://journalists.org/">ONA</a>, etc.)
 * Lists: Fake-news site (<a href="http://www.opensources.co/">OpenSources.co</a>, <a href="https://isitfakenews.com/">Is It Fake News?</a>, etc.)
 * Ranking (<a href="https://www.alexa.com/siteinfo/">Alexa</a>)
-* Page rank (<a href="https://pr.domaineye.com/pr/">Google PageRank</a>)
 * Security (<a href="https://sitecheck.sucuri.net/">Sucuri</a>)
 * Social shares (<a href="https://app.buzzsumo.com/research/most-shared">BuzzSumo</a>)
 * Subdomains (<a href="https://findsubdomains.com/">FindSubDomains</a>)
@@ -71,4 +70,6 @@ Maybe this is the century we finally have the tools to fight the fake news infes
 <li><a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">News verification checklists</a></li>
 <li><a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">Fake News site lists</a></li>
 <li><a href="https://hearingvoices.com/tools/credscore/">CredScore API tests</a></li>
+<li><a href="https://fact.pubmedia.us/">Fact-check Feed</a> (recent articles by U.S. fact-checking sites)</li>
+    
 </ul>
