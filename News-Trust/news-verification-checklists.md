@@ -24,6 +24,10 @@ This page compiles lists of fact-checking steps published by:
    <li>The Verge</li>
 </ol>
 
+(Also see the <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">Fake News site lists</a> compilation.)
+
+<hr>
+
 ## The Atlantic ##
 How to Fact Check The Atlantic (2018)  
 https://www.theatlantic.com/notes/2018/01/how-to-fact-check-the-atlantic/551477/  
