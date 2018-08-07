@@ -7,21 +7,23 @@ Many <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-ve
 
 Simple site checks like: Is the website in the <a href="http://www.editorandpublisher.com/databook/data/?djoPage=search_details&djoPid=25874">Editor &amp; Publisher DataBook</a> and the <a href="https://news.google.com/">Google News Index</a>? Or is it in a curated <a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">fake news site list</a>, such as <a href="https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj">PolitiFact's Fake News Almanac</a> or the <a href="http://www.fakenewscodex.com/">Fake News Codex</a>?
 
-Story checks examine the article (and its links) for plagiarism and sentiment analysis (e.g., CAPS or !!!). Tech checks test HTML and security standards and page authority. All pulled from existing API services
+Story checks like: Is the article plagiarised or full of fake-news flags (e.g., CAPS or !!!)? Does the markup meet HTML and security standards?
   
 No one indicator is conclusive. Scores of weighted factors go into a reliable CredScore.
 
 ## The Cred Badge of Courage ##
 People submit an URL then get a score, and the ability to submit issues and comments on the results. (Perhaps a tool like <a href="http://filterbubbler.org/">FilterBubbler</a> can help crowdsource the best weightings.)
 
-If a social site let people auto-submit a link before they post, some might stop posting links with low CredScores. If people submitted all their shared links, they'd get their average CredScore. People might want to display that number publicly as a badge of cred honor.
+If a social site lets people auto-submit a link before they post, some might stop posting links with low CredScores. If people submitted all their shared links, they'd get their average shared-link CredScore. People might want to display their number publicly as a badge of cred honor. High-scoring sites might also publish their badges.
 
 ### You can run, but you can't hide ###
-Initial tests already reveal potentially usable differences between fake and fact. Fake site domains are newer (an average of three years). Fake stories have a lower average grade level, fewer complex words, and more accessibility errors.  
+Preliminary tests run on known fake-news and fact-based stories already reveal statisically significant differences. Real news domain registrations are an average of three years older. Fake stories show a lower average grade level (and percentage of complex words) in readability analyses and more errors in accessibility tests.
 
-When fake news tries to game the algorithm, they'll find many indicators expensive (a11y) and difficult (year online) to fight. Meanwhile, with each submitted URL, CredScore builds a better history of a site's trustworthiness. Soon CredScore history becomes another indicator. 
+With each submitted URL, CredScore builds a better history of a site's trustworthiness. Soon CredScore history becomes another indicator. 
 
 CredScore can continually auto-update and grow, chasing down all a fake-news site's connections: domains registered to the same owner, or using the same Google Ad or Analytics IDs, also redirects — these sites go dark often, as the scams are detected, then pop up in a new domain. 
+
+When sites try to game the algorithm, they'll find many indicators time-consuming (a11y) and costly (year online) to fight. Consuming time and money is an anathema to the business model of fake news. 
 
 ### Showing our hand ###
 This should be an open-source project, maintained by a community not a company. Transparency is key: People need to trust CredScore to trust its credibility estimates. Each CredScore would have a clickable info icon to list the main factors in the score's calculations. The methodology must be detailed, published, and open for review and revision. 
@@ -31,7 +33,7 @@ Bots can infect social sites with fake news but hoaxes go viral only with human 
 
 <img src="https://raw.githubusercontent.com/hearvox/Research/master/News-Trust/assets/cbs-fake-news-screenshots.gif" />
 
-Below are a few of the machine-readable indicators (and API services) that will enable us to distinguish between news and fake-news.
+Below are a few of the machine-readable indicators (and exisiting API services) that will enable us to distinguish fact from fake news.
 
 ### Site checks ###
 * Analytics/AdSense IDs (<a href="http://spyonweb.com/">SpyOnWeb</a>)
