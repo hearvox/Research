@@ -12,10 +12,9 @@ Story checks like: Is the article plagiarised or full of fake-news flags (e.g., 
 No one indicator is conclusive. Scores of weighted factors go into a reliable CredScore.
 
 ## The Cred Badge of Courage ##
-People submit an URL then get a score, and the ability to submit issues and comments on the results. (Perhaps a tool like <a href="http://filterbubbler.org/">FilterBubbler</a> can help crowdsource the best weightings.)
+<img src="https://raw.githubusercontent.com/hearvox/Research/master/News-Trust/assets/FB-fake-news-post.png" width="450" alt="Mockup of Facebook post of fake news link with low CredScore" align="right" />People submit an URL then get a score, and the ability to submit issues and comments on the results. (Perhaps a tool like <a href="http://filterbubbler.org/">FilterBubbler</a> can help crowdsource the best weightings.)
 
 If a social site lets people auto-submit a link before they post, some might stop posting links with low CredScores. If people submitted all their shared links, they'd get their average shared-link CredScore. People might want to display their number publicly as a badge of cred honor. High-scoring sites might also publish their badges.
-<div><img src="https://raw.githubusercontent.com/hearvox/Research/master/News-Trust/assets/FB-fake-news-post.png" width="450" alt="Mockup of Facebook post of fake news link with low CredScore" align="right" /></div>
 
 ### You can run, but you can't hide ###
 Preliminary tests run on known fake-news and fact-based stories already reveal statisically significant differences. Real news domain registrations are an average of three years older. Fake stories show a lower average grade level (and percentage of complex words) in readability analyses and more errors in accessibility tests.
