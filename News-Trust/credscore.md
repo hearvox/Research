@@ -5,7 +5,7 @@
 
 Many <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">fact-checking steps</a> could be computer-assisted. The results, combined and weighted, could quickly generate a CredScore, 0–100, from fake to fact. 
 
-Simple site checks like: Is the website in the <a href="http://www.editorandpublisher.com/databook/data/?djoPage=search_details&djoPid=25874">Editor &amp; Publisher DataBook</a> and the <a href="https://news.google.com/">Google News Index</a>? Or is it in <a href="https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj">PolitiFact's Fake News Almanac</a>, the <a href="http://www.fakenewscodex.com/">Fake News Codex</a>, or other curated <a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">fake news site list</a>?
+Simple site checks like: Is the website in the <a href="http://www.editorandpublisher.com/databook/data/?djoPage=search_details&djoPid=25874">Editor &amp; Publisher DataBook</a> and the <a href="https://news.google.com/">Google News Index</a>? Or is it in a curated <a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">fake news site list</a>, such as <a href="https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj">PolitiFact's Fake News Almanac</a> or the <a href="http://www.fakenewscodex.com/">Fake News Codex</a>?
 
 Story checks examine the article (and its links) for plagiarism and sentiment analysis (e.g., CAPS or !!!). Tech checks test HTML and security standards and page authority. All pulled from existing API services
   
