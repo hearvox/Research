@@ -29,6 +29,8 @@ This should be an open-source project, maintained by a community not a company. 
 ### It ain't the meat, it's the motion ###
 Bots can infect social sites with fake news but hoaxes go viral only with human help. CredScore attacks fake news via people, controlling its spread by dampening the network effect, until fact-checks and common sense take over. To contain an epidemic outbreak you act quickly. That's the goal of this project.
 
+<img src="https://raw.githubusercontent.com/hearvox/Research/master/News-Trust/assets/cbs-fake-news-screenshots.gif" />
+
 Below are a few of the machine-readable indicators (and API services) that will enable us to distinguish between news and fake-news.
 
 ### Site checks ###
