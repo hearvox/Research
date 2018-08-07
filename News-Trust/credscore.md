@@ -15,8 +15,7 @@ No one indicator is conclusive. Scores of weighted factors go into a reliable Cr
 People submit an URL then get a score, and the ability to submit issues and comments on the results. (Perhaps a tool like <a href="http://filterbubbler.org/">FilterBubbler</a> can help crowdsource the best weightings.)
 
 If a social site lets people auto-submit a link before they post, some might stop posting links with low CredScores. If people submitted all their shared links, they'd get their average shared-link CredScore. People might want to display their number publicly as a badge of cred honor. High-scoring sites might also publish their badges.
-
-<img align="center" src="https://raw.githubusercontent.com/hearvox/Research/master/News-Trust/assets/FB-fake-news-post.png" />
+<div align="center"><img align="center" src="https://raw.githubusercontent.com/hearvox/Research/master/News-Trust/assets/FB-fake-news-post.png" /></div>
 
 ### You can run, but you can't hide ###
 Preliminary tests run on known fake-news and fact-based stories already reveal statisically significant differences. Real news domain registrations are an average of three years older. Fake stories show a lower average grade level (and percentage of complex words) in readability analyses and more errors in accessibility tests.
@@ -33,7 +32,7 @@ This should be an open-source project, maintained by a community not a company. 
 ### It ain't the meat, it's the motion ###
 Bots can infect social sites with fake news but hoaxes go viral only with human help. CredScore attacks fake news via people, controlling its spread by dampening the network effect, until fact-checks and common sense take over. To contain an epidemic outbreak you act quickly. That's the goal of this project.
 
-<img src="https://raw.githubusercontent.com/hearvox/Research/master/News-Trust/assets/cbs-fake-news-screenshots.gif" />
+<div align="center"><img src="https://raw.githubusercontent.com/hearvox/Research/master/News-Trust/assets/cbs-fake-news-screenshots.gif" /></div>
 
 Below are a few of the machine-readable indicators (and exisiting API services) that will enable us to distinguish fact from fake news.
 
