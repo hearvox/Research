@@ -29,9 +29,11 @@ When sites try to game the algorithm, they'll find many indicators time-consumin
 This should be an open-source project, maintained by a community not a company. Transparency is key: People need to trust CredScore to trust its credibility estimates. Each CredScore would have a clickable info icon to list the main factors in the score's calculations. The methodology must be detailed, published, and open for review and revision. 
 
 ### It ain't the meat, it's the motion ###
-Bots can infect social sites with fake news but hoaxes go viral only with human help. CredScore attacks fake news via people, controlling its spread by dampening the network effect, until fact-checks and common sense take over. To contain an epidemic outbreak you act quickly. That's the goal of this project.
+Bots can infect social sites with fake news but hoaxes go viral only with human help. CredScore attacks fake news via people, controlling its spread by dampening the network effect, until fact-checks and common sense take over. To contain an epidemic outbreak you act quickly. That's the goal of this project. We hope to:
+* Break up the fake-news business model by interfering with its ability of make a quick ad-buck on clickbait.
+* Disrupt the viral speead by treating fake news like a virus, innoculating for it early, often and everywhere.
 
-Will CredScore a substitute for a massively media literate populace or people finally engaging their God-given built-in bullshit detectors. No. Never. But it can help get us there.
+Will CredScore be a substitute for massive media fact-checking, widespread digital literacy, or people finally engaging their God-given built-in bullshit detectors. No. Never. But it can help get us there.
 
 <div align="center"><img src="https://raw.githubusercontent.com/hearvox/Research/master/News-Trust/assets/cbs-fake-news-screenshots.gif" alt="Screenshots of fake news articles" /></div>
 
