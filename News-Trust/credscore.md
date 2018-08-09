@@ -7,7 +7,7 @@ Many <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-ve
 
 Simple site checks like: Is the website in the <a href="http://www.editorandpublisher.com/databook/data/?djoPage=search_details&djoPid=25874">Editor &amp; Publisher DataBook</a> and the <a href="https://news.google.com/">Google News Index</a>? Or is it in a curated <a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">fake news site list</a>, such as <a href="https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj">PolitiFact's Fake News Almanac</a> or the <a href="http://www.fakenewscodex.com/">Fake News Codex</a>?
 
-Story checks like: Is the article plagiarised or full of fake-news flags (e.g., CAPS or !!!)? Does the markup meet HTML and security standards?
+Story checks like: Is the article plagiarized or full of fake-news flags (e.g., CAPS or !!!)? Does the markup meet HTML and security standards?
   
 No one indicator is conclusive. Scores of weighted factors go into a reliable CredScore.
 
@@ -17,7 +17,7 @@ No one indicator is conclusive. Scores of weighted factors go into a reliable Cr
 If a social site lets people auto-submit a link before they post, some might stop posting links with low CredScores. If people submitted all their shared links, they'd get their average shared-link CredScore. People might want to display their number publicly as a badge of cred honor. High-scoring sites might also publish their badges.
 
 ### You can run, but you can't hide ###
-Preliminary tests run on known fake-news and fact-based stories already reveal statisically significant differences. Real news domain registrations are an average of three years older. Fake stories show a lower average grade level (and percentage of complex words) in readability analyses and more errors in accessibility tests.
+Preliminary tests run on known fake-news and fact-based stories already reveal statistically significant differences. Real news domain registrations are an average of three years older. Fake stories show a lower average grade level (and percentage of complex words) in readability analyses and more errors in accessibility tests.
 
 With each submitted URL, CredScore builds a better history of a site's trustworthiness. Soon CredScore history becomes another indicator. 
 
@@ -31,13 +31,13 @@ This should be an open-source project, maintained by a community not a company. 
 ### It ain't the meat, it's the motion ###
 Bots can infect social sites with fake news but hoaxes go viral only with human help. CredScore attacks fake news via people, controlling its spread by dampening the network effect, until fact-checks and common sense take over. To contain an epidemic outbreak you act quickly. That's the goal of this project. We hope to:
 * Break up the fake-news business model by interfering with its ability of make a quick ad-buck on clickbait.
-* Disrupt the viral speead by treating fake news like a virus, innoculating for it early, often and everywhere.
+* Disrupt the viral spread by treating fake news like a virus, inoculating for it early, often and everywhere.
 
-Will CredScore be a substitute for massive media fact-checking, widespread digital literacy, or people finally engaging their God-given built-in bullshit detectors. No. Never. But it can help get us there.
+Will CredScore be a substitute for massive media fact-checking, widespread digital literacy, or people finally engaging their God-given built-in bullshit detectors? No. Never. But it can help get us there.
 
 <div align="center"><img src="https://raw.githubusercontent.com/hearvox/Research/master/News-Trust/assets/cbs-fake-news-screenshots.gif" alt="Screenshots of fake news articles" /></div>
 
-Below are a few of the machine-readable indicators (and exisiting API services) that will enable us to distinguish fact from fake news.
+Below are a few of the machine-readable indicators (and existing API services) that will enable us to distinguish fact from fake news.
 
 ### Site checks ###
 * Analytics/AdSense IDs (<a href="http://spyonweb.com/">SpyOnWeb</a>)
@@ -49,7 +49,7 @@ Below are a few of the machine-readable indicators (and exisiting API services) 
 * Security (<a href="https://sitecheck.sucuri.net/">Sucuri</a>)
 * Social shares (<a href="https://app.buzzsumo.com/research/most-shared">BuzzSumo</a>)
 * Subdomains (<a href="https://findsubdomains.com/">FindSubDomains</a>)
-* Technologies (a href="https://builtwith.com">BuiltWith</a)
+* Technologies (<a href="https://builtwith.com">BuiltWith</a)
 * Whois (<a href="http://whois.domaintools.com/propornot.com">DomainTools</a>)
 
 ### Story checks ###
