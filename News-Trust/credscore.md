@@ -54,7 +54,7 @@ Below are a few of the machine-readable indicators (and existing API services) t
 * Security (<a href="https://sitecheck.sucuri.net/">Sucuri</a>)
 * Social shares (<a href="https://app.buzzsumo.com/research/most-shared">BuzzSumo</a>)
 * Subdomains (<a href="https://findsubdomains.com/">FindSubDomains</a>)
-* Technologies (<a href="https://builtwith.com">BuiltWith</a)
+* Trust Rank (<a href="https://blog.bitpress.network/">Bitpress</a>)
 * Whois (<a href="http://whois.domaintools.com/propornot.com">DomainTools</a>)
 
 ### Story checks ###
