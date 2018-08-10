@@ -12,8 +12,7 @@ Story checks like: Is the article plagiarized or full of fake-news flags (e.g., 
 No one indicator is conclusive. Scores of weighted factors go into a reliable CredScore.
 
 ## The Cred Badge of Courage ##
-<img src="https://raw.githubusercontent.com/hearvox/Research/master/News-Trust/assets/FB-fake-news-post.png" width="450" alt="Mockup of Facebook post of fake news link with low CredScore" align="right" />
-Use cases:
+<img src="https://raw.githubusercontent.com/hearvox/Research/master/News-Trust/assets/FB-fake-news-post.png" width="450" alt="Mockup of Facebook post of fake news link with low CredScore" align="right" />Use cases:<br>
 1. An online form: People submit an URL then get a score, and the ability to submit issues and comments on the results. (Perhaps a tool like <a href="http://filterbubbler.org/">FilterBubbler</a> can help crowdsource the best weightings.)
 
 2. A WordPress plugin: All the links in a draft post automatically get CredScored as the URLs are entered.
