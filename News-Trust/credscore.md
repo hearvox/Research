@@ -13,15 +13,17 @@ No one indicator is conclusive. Scores of weighted factors go into a reliable Cr
 
 ## The Cred Badge of Courage ##
 <img src="https://raw.githubusercontent.com/hearvox/Research/master/News-Trust/assets/FB-fake-news-post.png" width="450" alt="Mockup of Facebook post of fake news link with low CredScore" align="right" />Use cases:<br>
-1. An online form: People submit an URL then get a score, and the ability to submit issues and comments on the results. (Perhaps a tool like <a href="http://filterbubbler.org/">FilterBubbler</a> can help crowdsource the best weightings.)
+1. An online form: For people like journalists to submit an URL then get a score, and the ability to submit issues and comments on the results.
 
-2. A CMS plugin: All the links in a draft post automatically get CredScored as the URLs are entered.
+2. A social media filter: People can resort the post they see from fact at the top to fake way down the bottom., using the <a href="http://filterbubbler.org/">FilterBubbler</a> can help crowdsource the best indicator weights.
 
-3. A browser extension: People right click on a link in an article to get the linked resource's score.
+3. A CMS plugin: All the links in a draft post automatically get CredScored as the URLs are entered.
 
-4. An API service for social media: If social sites let people auto-submit a link before they post, some might not post links with low CredScores. If people submitted all their shared links, they'd get their average shared-link CredScore. People might want to display their number publicly as a badge of cred honor. High-scoring sites might also publish their badges.
+4. A browser extension: People right click on a link in an article to get the linked resource's score.
 
-5. An API service for adtech: Advertisers and adtech platforms could auto-build blacklists, barring ad placements on sites which fail to rise above a certain CredScore.
+5. An API service for social media: If social sites let people auto-submit a link before they post, some might not post links with low CredScores. If people submitted all their shared links, they'd get their average shared-link CredScore. People might want to display their number publicly as a badge of cred honor. High-scoring sites might also publish their badges.
+
+6. An API service for adtech: Advertisers and adtech platforms could auto-build blacklists, barring ad placements on sites which fail to rise above a certain CredScore.
 
 ### You can run, but you can't hide ###
 Preliminary tests run on known fake-news and fact-based stories already reveal statistically significant differences. Real news domain registrations are an average of three years older. Fake stories show a lower average grade level (and percentage of complex words) in readability analyses and more errors in accessibility tests.
