@@ -15,7 +15,7 @@ No one indicator is conclusive. Scores of weighted factors go into a reliable Cr
 <img src="https://raw.githubusercontent.com/hearvox/Research/master/News-Trust/assets/FB-fake-news-post.png" width="450" alt="Mockup of Facebook post of fake news link with low CredScore" align="right" />Use cases:<br>
 1. An online form: For people like journalists to submit an URL then get a score, and the ability to submit issues and comments on the results.
 
-2. A social media filter: People can resort the post they see from fact at the top to fake way down the bottom., using the <a href="http://filterbubbler.org/">FilterBubbler</a> can help crowdsource the best indicator weights.
+2. A social media filter: People can resort the post they see from fact at the top to fake way down the bottom, using the <a href="http://filterbubbler.org/">FilterBubbler</a> to help crowdsource the most accurate indicator weights.
 
 3. A CMS plugin: All the links in a draft post automatically get CredScored as the URLs are entered.
 
