@@ -38,7 +38,7 @@ When sites try to game the algorithm, they'll find many indicators time-consumin
 This should be an open-source project, maintained by a community not a company. Transparency is key: People need to trust CredScore to trust its credibility estimates. Each CredScore would have a clickable info icon to list the main factors in the score's calculations. The methodology must be detailed, published, and open for review and revision. 
 
 ### It ain't the meat, it's the motion ###
-Bots can infect social sites with fake news but hoaxes go viral only with human help. CredScore attacks fake news via people, controlling its spread by dampening the network effect, until fact-checks and common sense take over. To contain an epidemic outbreak you act quickly. That's the goal of this project. We hope to:
+Bots can infect social sites with fake news but hoaxes go viral only with human help. CredScore attacks fake news via people, controlling its spread by dampening the network effect, until fact-checks and common sense take over. This is a <a href="https://www-m.cnn.com/2018/08/15/health/violent-crime-disease-contagious-partner/index.html">public health approach</a>: To contain an epidemic outbreak you act quickly. That's the goal of this project. We hope to:
 * Break up the fake-news business model by interfering with its ability of make a quick ad-buck on clickbait.
 * Disrupt the viral spread by treating fake news like a virus, inoculating for it early, often and everywhere.
 
