@@ -69,6 +69,7 @@ Below are a few of the machine-readable indicators (and existing API services) t
 * Plagiarism (<a href="https://www.copyscape.com/">Copyscape</a>)
 * Security (<a href="https://securityheaders.com/">Security Headers</a>)
 * Sentiment and syntax (<a href="http://saifmohammad.com/WebPages/NRC-Canada-Sentiment.htm">Sentiment Analysis System for Tweets</a>)
+* Soical Shares (<a href="https://www.crowdtangle.com/">CrowdTangle</a>)
 * Web standards (<a href="https://validator.w3.org/">W3C Markup Validation</a>)
 
 ### Author checks ###
