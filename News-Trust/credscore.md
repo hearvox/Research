@@ -26,7 +26,7 @@ No one indicator is conclusive. Scores of weighted factors go into a reliable Cr
 6. An API service for adtech: Advertisers and adtech platforms could auto-build blacklists, barring ad placements on sites which fail to rise above a certain CredScore.
 
 ### You can run, but you can't hide ###
-Preliminary tests run on known fake-news and fact-based stories already reveal statistically significant differences. Real news domain registrations are an average of three years older. Fake stories show a lower average grade level (and percentage of complex words) in readability analyses and more errors in accessibility tests.
+Preliminary tests run on known fake-news and fact-based stories already reveal statistically significant differences. Real news domain registrations are an average of eleven years older. Fake stories show a lower average grade level (and percentage of complex words) in readability analyses and more errors in accessibility tests.
 
 With each submitted URL, CredScore builds a better history of a site's trustworthiness. Soon CredScore history becomes another indicator. 
 
