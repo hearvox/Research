@@ -26,16 +26,16 @@ No one indicator would be conclusive. Scores of weighted factors would go into a
 6. An API service for adtech: Advertisers and adtech platforms could auto-build blacklists, barring ad placements on sites which fail to rise above a certain CredScore.
 
 ### You can run, but you can't hide ###
-Preliminary tests run on known fake-news and fact-based stories already reveal statistically significant differences. Real news domain registrations are an average of eleven years older. Fake stories show a lower average grade level (and percentage of complex words) in readability analyses and more errors in accessibility tests.
+Preliminary tests run on known fake-news and fact-based stories already reveal statistically significant differences. Real news domain registrations are an average of eleven years older. Fake stories have a lower average grade level and percentage of complex words (in readaibilty analyses)) and more errors in accessibility tests.
 
 With each submitted URL, CredScore builds a better history of a site's trustworthiness. Soon CredScore history becomes another indicator. 
 
-CredScore can continually auto-update and grow, chasing down all a fake-news site's connections: domains registered to the same owner, or using the same Google Ad or Analytics IDs, also redirects — these sites go dark often, as the scams are detected, then pop up in a new domain. 
+CredScore can continually auto-update and grow, chasing down all a fake-news site's connections: sites registered to the same owner, domains using the same Google Ad or Analytics IDs, redirects — these sites go dark often, as their scams are detected, then pop up in a new domain. 
 
 When sites try to game the algorithm, they'll find many indicators time-consuming (a11y) and costly (year online) to fight. Consuming time and money is an anathema to the business model of fake news. 
 
 ### Showing our hand ###
-This should be an open-source project, maintained by a community not a company. Transparency is key: People need to trust CredScore to trust its credibility estimates. Each CredScore would have a clickable info icon to list the main factors in the score's calculations. The methodology must be detailed, published, and open for review and revision. 
+Transparency is key: People need to trust CredScore to trust its credibility estimates. This should be an open-source project, maintained by a community not a company. Each CredScore would have a clickable info icon to list the main factors in the score's calculations. The methodology must be detailed, published, and open for review and revision. 
 
 ### It ain't the meat, it's the motion ###
 Bots can infect social sites with fake news but hoaxes go viral only with human help. CredScore attacks fake news via people, controlling its spread by dampening the network effect, until fact-checks and common sense take over. This is a <a href="https://www-m.cnn.com/2018/08/15/health/violent-crime-disease-contagious-partner/index.html">public health approach</a>: To contain an epidemic outbreak you act quickly. That's the goal of this project. We hope to:
