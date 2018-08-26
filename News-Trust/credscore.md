@@ -3,21 +3,21 @@
 * But many parts of the fact-check process can happen automatically.
 * We can instantly produce a reliable estimate of a story's credibility using just its URL.
 
-Many <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">fact-checking steps</a> could be computer-assisted. The results, combined and weighted, could quickly generate a CredScore, 0–100, from fake to fact. 
+Many <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">fact-checking steps</a> can be computer-assisted. The results, combined and weighted, could quickly generate a CredScore, 0–100, from fake to fact. 
 
 Simple site checks like: Is the website in the <a href="http://www.editorandpublisher.com/databook/data/?djoPage=search_details&djoPid=25874">Editor &amp; Publisher DataBook</a> and the <a href="https://news.google.com/">Google News Index</a>? Or is it in a curated <a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">fake news site list</a>, such as <a href="https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj">PolitiFact's Fake News Almanac</a> or the <a href="http://www.fakenewscodex.com/">Fake News Codex</a>?
 
 Story checks like: Is the article plagiarized or full of fake-news flags (e.g., CAPS or !!!)? Does the markup meet HTML and security standards?
   
-No one indicator is conclusive. Scores of weighted factors go into a reliable CredScore.
+No one indicator would be conclusive. Scores of weighted factors would go into a reliable CredScore.
 
 ## The Cred Badge of Courage ##
 <img src="https://raw.githubusercontent.com/hearvox/Research/master/News-Trust/assets/FB-fake-news-post.png" width="450" alt="Mockup of Facebook post of fake news link with low CredScore" align="right" />Use cases:<br>
-1. An online form: For people like journalists to submit an URL then get a score, and the ability to submit issues and comments on the results.
+1. An online form: Journalists and the public submit an URL, then get a score (and a way to poost issues and comments on the results).
 
-2. A social media filter: People can resort the post they see from fact at the top to fake way down the bottom, using the <a href="http://filterbubbler.org/">FilterBubbler</a> to help crowdsource the most accurate indicator weights.
+2. A social/search filter: People get resorted search and news feed results, from fact at the top to fake way down the bottom, using the <a href="http://filterbubbler.org/">FilterBubbler</a>, which also helps crowdsource the most accurate indicator weights.
 
-3. A CMS plugin: All the links in a draft post automatically get CredScored as the URLs are entered.
+3. A CMS plugin: All the links in a draft post automatically get CredScored as URLs are entered.
 
 4. A browser extension: People right click on a link in an article to get the linked resource's score.
 
