@@ -158,7 +158,7 @@ It Can Take As Little As Thirty Seconds, Seriously
 https://hapgood.us/2018/01/23/it-can-take-as-little-as-thirty-seconds-seriously/  
 https://www.youtube.com/watch?v=jxCi2HySzVE  
 
-How “News Literacy” Gets Web Misinformation Wrong
+How “News Literacy” Gets Web Misinformation Wrong  
 https://hapgood.us/2017/03/04/how-news-literacy-gets-the-web-wrong/  
 https://medium.com/@holden/how-media-literacy-gets-web-misinformation-wrong-45aa6323829d  
 * Check for previous fact-checking work
