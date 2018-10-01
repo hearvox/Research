@@ -13,7 +13,7 @@ No one indicator would be conclusive. Scores of weighted factors would go into a
 
 ## The Cred Badge of Courage ##
 <img src="https://raw.githubusercontent.com/hearvox/Research/master/News-Trust/assets/FB-fake-news-post.png" width="450" alt="Mockup of Facebook post of fake news link with low CredScore" align="right" />Use cases:<br>
-1. An online form: Journalists and the public submit an URL, then get a score (and a way to poost issues and comments on the results).
+1. An online form: Journalists and the public submit an URL, then get a score (and a way to post issues and comments on the results).
 
 2. A social/search filter: People get resorted search and news feed results, from fact at the top to fake way down the bottom, using the <a href="http://filterbubbler.org/">FilterBubbler</a>, which also helps crowdsource the most accurate indicator weights.
 
