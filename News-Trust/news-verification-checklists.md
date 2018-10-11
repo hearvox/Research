@@ -408,3 +408,17 @@ https://www.theverge.com/2017/8/14/16111764/how-to-spot-a-fake-viral-video
 
 ## Fact-check feed aggregation ##
 https://fact.pubmedia.us/
+
+<hr />
+
+https://assets.documentcloud.org/documents/4345522/Read-the-full-transcript-of-Glenn-Simpson-s.pdf
+Glenn Simpson, Fusion GPS
+Testimony to the Senate Judiciary Committee, 2017-08-22, p93
+
+Q. And you had talked a bit about prior work and Mr. Steele's performance in prior work and being satisfied by that work. Did you do anything to kind of test and make sure that information he was giving you was accurate?
+
+A. So in the sort of -- I know I'm repeating myself, but generally we do public records work. So we deal in documents and things that are very hard and that are useful in court or, you know, other kinds of proceedings.
+
+Chris deals in a very different kind of information, which is human intelligence, human information. So by its very nature the question of whether something is accurate isn't really asked. The question that is asked generally is whether it's credible. Human intelligence isn't good for, you know, filing lawsuits. It's good for making decisions and trying to understand what's going on and that's a really valuable thing, but it's not the same thing.
+
+So when you evaluate human intelligence, human reporting, field reporting, source reporting, you know, it's sort of like when you're a journalist and you're trying to figure out who's telling the truth, right. You don't really decide who's telling the truth. You decide whether the person is credible, right, whether they know what they're talking about, whether there's other reasons to believe what they're saying, whether anything they've said factually matches up with something in the public record.
