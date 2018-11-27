@@ -346,7 +346,7 @@ http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-
 1. Anything else?
 
 ## Carl Sagan ##
-Excerpt from book book <a href="https://www.amazon.com/exec/obidos/ASIN/0345409469/braipick-20">The Demon-Haunted World: Science as a Candle in the Dark</a>
+“Baloney detection kit”, excerpt from chapter <a href="http://www.inf.fu-berlin.de/lehre/pmo/eng/Sagan-Baloney.pdf">"The Fine Art of Baloney Detection"</a> in book <a href="https://www.amazon.com/exec/obidos/ASIN/0345409469/braipick-20">The Demon-Haunted World: Science as a Candle in the Dark</a>
 * Wherever possible there must be independent confirmation of the “facts.”
 * Encourage substantive debate on the evidence by knowledgeable proponents of all points of view.
 * Arguments from authority carry little weight — “authorities” have made mistakes in the past. They will do so again in the future. Perhaps a better way to say it is that in science there are no authorities; at most, there are experts.
@@ -355,7 +355,8 @@ Excerpt from book book <a href="https://www.amazon.com/exec/obidos/ASIN/03454094
 * Quantify. If whatever it is you’re explaining has some measure, some numerical quantity attached to it, you’ll be much better able to discriminate among competing hypotheses. What is vague and qualitative is open to many explanations. Of course there are truths to be sought in the many qualitative issues we are obliged to confront, but finding them is more challenging.
 * If there’s a chain of argument, every link in the chain must work (including the premise) — not just most of them.
 * Occam’s Razor. This convenient rule-of-thumb urges us when faced with two hypotheses that explain the data equally well to choose the simpler.
-* Always ask whether the hypothesis can be, at least in principle, falsified. Propositions that are untestable, unfalsifiable are not worth much. Consider the grand idea that our Universe and everything in it is just an elementary particle — an electron, say — in a much bigger Cosmos. But if we can never acquire information from outside our Universe, is not the idea incapable of disproof? You must be able to check assertions out. Inveterate skeptics must be given the chance to follow your reasoning, to duplicate your experiments and see if they get the same result.  
+* Always ask whether the hypothesis can be, at least in principle, falsified. Propositions that are untestable, unfalsifiable are not worth much. Consider the grand idea that our Universe and everything in it is just an elementary particle — an electron, say — in a much bigger Cosmos. But if we can never acquire information from outside our Universe, is not the idea incapable of disproof? You must be able to check assertions out. Inveterate skeptics must be given the chance to follow your reasoning, to duplicate your experiments and see if they get the same result.
+
 Summary: https://www.brainpickings.org/2014/01/03/baloney-detection-kit-carl-sagan/
 
 ## Stanford History Education Group (SHEG) ##
