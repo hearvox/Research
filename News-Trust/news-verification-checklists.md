@@ -20,7 +20,7 @@ This page compiles lists of fact-checking steps published by:
 	<li>On the Media</li>
 	<li>OpenSources</li>
 	<li>Politfact</li>
-	<l1>Carl Sagan</li>
+	<li>Carl Sagan</li>
 	<li>Stanford History Education Group (SHEG)</li>
 	<li>U of FL College of Journalism</li>
 	<li>USA Today</li>
