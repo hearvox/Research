@@ -93,8 +93,8 @@ https://www.buzzfeed.com/craigsilverman/detect-fake-news-like-a-pro-2
 https://www.buzzfeed.com/craigsilverman?language=en
 
 ## California State University, Chico (CRAAP Test) ##
+The CRAAP Test is a list of questions to help you evaluate the information you find. Different criteria will be more or less important depending on your situation or need. (9/17/10)  
 https://www.csuchico.edu/lins/handouts/eval_websites.pdf  
-The CRAAP Test is a list of questions to help you evaluate the information you find. Different criteria will be more or less important depending on your situation or need.
 
 Evaluation Criteria
 
@@ -271,7 +271,7 @@ https://www.huffingtonpost.com/entry/fake-news-guide-facebook_us_5831c6aae4b058c
 1. Look Out For Questionable Quotes And Photos
 1. Beware Confirmation Bias
 1. Search If Other News Outlets Are Reporting It
-1. Think Before You Share
+1. Think Before You Share  
 --Nick Robins-Early
 
 ## IFLA ##
@@ -401,7 +401,7 @@ http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-
 1. Anything else?
 
 ## Carl Sagan ##
-“Baloney detection kit”, excerpt from chapter <a href="http://www.inf.fu-berlin.de/lehre/pmo/eng/Sagan-Baloney.pdf">"The Fine Art of Baloney Detection"</a> in book <a href="https://www.amazon.com/exec/obidos/ASIN/0345409469/braipick-20">The Demon-Haunted World: Science as a Candle in the Dark</a>
+“Baloney detection kit”, excerpt from chapter <a href="http://www.inf.fu-berlin.de/lehre/pmo/eng/Sagan-Baloney.pdf">"The Fine Art of Baloney Detection"</a> in book <a href="https://www.amazon.com/exec/obidos/ASIN/0345409469/braipick-20">The Demon-Haunted World: Science as a Candle in the Dark</a> (1995)  
 * Wherever possible there must be independent confirmation of the “facts.”
 * Encourage substantive debate on the evidence by knowledgeable proponents of all points of view.
 * Arguments from authority carry little weight — “authorities” have made mistakes in the past. They will do so again in the future. Perhaps a better way to say it is that in science there are no authorities; at most, there are experts.
