@@ -12,6 +12,7 @@ This page compiles lists of fact-checking steps published by:
 	<li>Facebook</li>
 	<li>FactCheck.org</li>
 	<li>First Draft News</li>
+	<li>Huffington Post</li>
 	<li>IFLA</li>
 	<li>The News Literacy Project</li>
 	<li>NPR</li>
@@ -256,6 +257,22 @@ https://fivethirtyeight.com/features/how-to-avoid-falling-for-a-fake-poll/
 1. Have [news outlets] cited the pollster?
 1. Email polls@fivethirtyeight.com, we'll look into it.  
 --Harry Enten
+
+## Huffington Post ##
+How To Recognize A Fake News Story (Nov 27, 2016)
+9 helpful tips to stop yourself from sharing false information.  
+https://www.huffingtonpost.com/entry/fake-news-guide-facebook_us_5831c6aae4b058ce7aaba169
+<img src="https://img.huffingtonpost.com/asset/583497d81700002600e7be4c.jpeg" />
+1. Read Past The Headline
+1. Check What News Outlet Published It
+1. Check The Publish Date And Time
+1. Who Is The Author?
+1. Look At What Links And Sources Are Used
+1. Look Out For Questionable Quotes And Photos
+1. Beware Confirmation Bias
+1. Search If Other News Outlets Are Reporting It
+1. Think Before You Share
+--Nick Robins-Early
 
 ## IFLA ##
 International Federation of Library Associations and Institutions  
