@@ -5,6 +5,7 @@ This page compiles lists of fact-checking steps published by:
 	<li>CJR</li>
 	<li>BBC</li>
 	<li>Buzzfeed</li>
+	<li>California State University, Chico (CRAAP Test)</li>
 	<li>Content Credibility Indicators Vocabulary (CCIV)</li>
 	<li>Digital Polarization Initiative / Hapgood</li>
 	<li>FiveThirtyEight</li>
@@ -89,6 +90,43 @@ https://www.buzzfeed.com/craigsilverman/detect-fake-news-like-a-pro-2
 1. If the story seems too perfect, too good to be true, or gives you a strong emotional reaction, slow down for a moment.  
 —Craig Silverman, BuzzFeed News Media Editor  
 https://www.buzzfeed.com/craigsilverman?language=en
+
+## California State University, Chico (CRAAP Test) ##
+https://www.csuchico.edu/lins/handouts/eval_websites.pdf  
+The CRAAP Test is a list of questions to help you evaluate the information you find. Different criteria will be more or less important depending on your situation or need.
+
+Evaluation Criteria
+
+Currency: The timeliness of the information.
+* When was the information published or posted?
+* Has the information been revised or updated?
+* Does your topic require current information, or will older sources work as well? Are the links functional?
+
+Relevance: The importance of the information for your needs.
+* Does the information relate to your topic or answer your question?
+* Who is the intended audience?
+* Is the information at an appropriate level (i.e. not too elementary or advanced for your needs)? * Have you looked at a variety of sources before determining this is one you will use?
+* Would you be comfortable citing this source in your research paper?
+
+Authority: The source of the information.
+* Who is the author/publisher/source/sponsor?
+* What are the author's credentials or organizational affiliations?
+* Is the author qualified to write on the topic?
+* Is there contact information, such as a publisher or email address? Does the URL reveal anything about the author or source?
+examples: .com .edu .gov .org .net
+
+Accuracy: The reliability, truthfulness and correctness of the content. * Where does the information come from?
+* Is the information supported by evidence?
+* Has the information been reviewed or refereed?
+* Can you verify any of the information in another source or from personal knowledge? * Does the language or tone seem unbiased and free of emotion?
+* Are there spelling, grammar or typographical errors?
+
+Purpose: The reason the information exists.
+* What is the purpose of the information? Is it to inform, teach, sell, entertain or persuade?
+* Do the authors/sponsors make their intentions or purpose clear?
+* Is the information fact, opinion or propaganda?
+* Does the point of view appear objective and impartial?
+* Are there political, ideological, cultural, religious, institutional or personal biases?
 
 ## CJR ##
 Eight Simple Rules for Doing Accurate Journalism (2011-09-16)  
