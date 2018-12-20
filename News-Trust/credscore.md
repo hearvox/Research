@@ -80,7 +80,7 @@ Below are a few of the machine-readable indicators (and existing API services) t
 ## Swatting falsehood flies ##
 Fakes news is not a new problem. The centuries-old saying, "A lie can travel halfway around the world before the truth can get its boots on," <a href="https://quoteinvestigator.com/2014/07/13/truth/">has its roots</a> in the 1700s:
 <blockquote>As the vilest Writer has his Readers, so the greatest Liar has his Believers; and it often happens, that if a Lie be believ’d only for an Hour, it has done its Work, and there is no farther occasion for it. Falsehood flies, and the Truth comes limping after it; so that when Men come to be undeceiv’d, it is too late; the Jest is over, and the Tale has had its Effect.<br>
-<cite>Jonathan Swift, The Examiner newspaper (1710)</blockquote>
+  <cite><em>—Jonathan Swift, The Examiner newspaper (1710)</em></blockquote>
   
 Maybe this is the century we finally have the tools to fight the fake news infestation.
 
