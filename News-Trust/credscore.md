@@ -3,9 +3,9 @@
 * But many parts of the fact-check process can happen automatically.
 * We can instantly produce a reliable estimate of a story's credibility using just its URL.
 
-Many <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">fact-checking steps</a> can be computer-assisted. The results, combined and weighted, could quickly generate a CredScore, 0–100, from fake to fact. 
+Many <a href="Now at: https://github.com/hearvox/unreliable-news/blob/master/lists/news-verification-checklists.md">fact-checking steps</a> can be computer-assisted. The results, combined and weighted, could quickly generate a CredScore, 0–100, from fake to fact. 
 
-Simple site checks like: Is the website in the <a href="http://www.editorandpublisher.com/databook/data/?djoPage=search_details&djoPid=25874">Editor &amp; Publisher DataBook</a> and the <a href="https://news.google.com/">Google News Index</a>? Or is it in a curated <a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">fake news site list</a>, such as <a href="https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj">PolitiFact's Fake News Almanac</a> or the <a href="http://www.fakenewscodex.com/">Fake News Codex</a>?
+Simple site checks like: Is the website in the <a href="http://www.editorandpublisher.com/databook/data/?djoPage=search_details&djoPid=25874">Editor &amp; Publisher DataBook</a> and the <a href="https://news.google.com/">Google News Index</a>? Or is it in a curated <a href="https://github.com/hearvox/unreliable-news/blob/master/lists/fake-news-site-lists.md">fake news site list</a>, such as <a href="https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj">PolitiFact's Fake News Almanac</a> or the <a href="http://www.fakenewscodex.com/">Fake News Codex</a>?
 
 Story checks like: Is the article plagiarized or full of fake-news flags (e.g., CAPS or !!!)? Does the markup meet HTML and security standards?
   
@@ -86,8 +86,8 @@ Maybe this is the century we finally have the tools to fight the fake news infes
 
 ### CredScore Resources ###
 <ul>
-<li><a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">News verification checklists</a></li>
-<li><a href="https://github.com/hearvox/Research/blob/master/News-Trust/fake-news-site-lists.md">Fake News site lists</a></li>
+<li><a href="https://github.com/hearvox/unreliable-news/blob/master/lists/news-verification-checklists.md">News verification checklists</a></li>
+<li><a href="https://github.com/hearvox/unreliable-news/blob/master/lists/fake-news-site-lists.md">Fake News site lists</a></li>
 <li><a href="https://hearingvoices.com/tools/credscore/">CredScore API tests</a></li>
 <li><a href="https://fact.pubmedia.us/">Fact-check Feed</a></li>
 </ul>
