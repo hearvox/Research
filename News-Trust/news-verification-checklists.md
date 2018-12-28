@@ -476,10 +476,16 @@ https://www.theverge.com/2017/8/14/16111764/how-to-spot-a-fake-viral-video
 
 <hr />
 
+## International Fact-Checking Network
+Signatories: https://ifcncodeofprinciples.poynter.org/signatories
+
+Code of Principles: https://ifcncodeofprinciples.poynter.org/know-more/the-commitments-of-the-code-of-principles
+
 ## Fact-check feed aggregation ##
 https://fact.pubmedia.us/
 
 <hr />
+Credibility vs. accuracy
 
 https://assets.documentcloud.org/documents/4345522/Read-the-full-transcript-of-Glenn-Simpson-s.pdf
 Glenn Simpson, Fusion GPS
